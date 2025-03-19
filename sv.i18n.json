@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "OKÄND PLATTFORM",
+  "Unknown": "Okänd",
+  "Pages": {
+    "Show_menu": "Visa meny",
+    "Payload_Sender": "Payload-avsändare",
+    "Debug_Log": "Felsökningslogg",
+    "Settings": "Inställningar",
+    "LanguageSelection": "",
+    "About": "Om",
+    "Back": "Tillbaka"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Värdnamn/Domän",
+    "Port": "Port",
+    "Payload_path___": "Sökväg till payload...",
+    "Browse___": "Bläddra...",
+    "Send_payload": "Skicka payload",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Ladda ner logg...",
+    "Please_select_an_output_file_": "Välj en utdatafil:",
+    "Clear_log": "Rensa logg"
+  },
+  "Settings": {
+    "Theme": "Tema",
+    "Use_system_theme": "Använd systemtema",
+    "Dark_Light_mode": "Mörkt/Ljust läge",
+    "Light": "Ljust",
+    "Dark": "Mörkt",
+    "Seed_color": "Grundfärg",
+    "Network": "Nätverk",
+    "Socket_timeout": "Socket-timeout",
+    "seconds": "$time sekunder",
+    "Select_Socket_Timeout": "Välj socket-timeout",
+    "Cancel": "Avbryt",
+    "Confirm": "Bekräfta",
+    "Protocol": "Protokoll",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Annat",
+    "Language": "Språk",
+    "Languages": {
+      "English": "Engelska"
+    },
+    "Reset_all_persistent_data": "Återställ all beständig data"
+  },
+  "About": {
+    "Author": "Författare",
+    "Not_Set": "Inte angivet",
+    "App_version": "Appversion",
+    "Build_number": "Versionsnummer",
+    "GitHub_Sponsors": "GitHub-sponsorer",
+    "Launching_browser_": "Startar webbläsare: $uri"
+  },
+  "Errors": {
+    "Error": "Fel",
+    "Ok": "OK",
+    "Issue_generating_error_message": "Problem vid generering av felmeddelande",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ogiltig FQDN eller IP (IPv4 eller IPv6)",
+    "Invalid_port__1_65535_": "Ogiltig port (1-65535)",
+    "Invalid_Host_IP": "Ogiltig värd/IP",
+    "Invalid_Port": "Ogiltig port",
+    "Issue_loading_payload_file": "Problem vid inläsning av payload-fil",
+    "Connection_timed_out": "Anslutningen tog för lång tid",
+    "The_remote_computer_refused_the_network_connection": "Den externa datorn avvisade nätverksanslutningen",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload är för stor för att få plats i en enda UDP-datasektion",
+    "Unknown_error": "Okänt fel",
+    "Debug_log_is_empty": "Felsökningsloggen är tom",
+    "Issue_formatting_URL": "Problem vid formatering av URL",
+    "Could_not_launch_URL": "Kunde inte öppna URL"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "TUNTEMATON ALUSTA",
+  "Unknown": "Tuntematon",
+  "Pages": {
+    "Show_menu": "Näytä valikko",
+    "Payload_Sender": "Payload-lähettäjä",
+    "Debug_Log": "Virheenetsintäloki",
+    "Settings": "Asetukset",
+    "LanguageSelection": "",
+    "About": "Tietoja",
+    "Back": "Takaisin"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Isäntänimi/Verkkotunnus",
+    "Port": "Portti",
+    "Payload_path___": "Payload-polku...",
+    "Browse___": "Selaa...",
+    "Send_payload": "Lähetä payload",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Lataa loki...",
+    "Please_select_an_output_file_": "Valitse tulostetiedosto:",
+    "Clear_log": "Tyhjennä loki"
+  },
+  "Settings": {
+    "Theme": "Teema",
+    "Use_system_theme": "Käytä järjestelmän teemaa",
+    "Dark_Light_mode": "Tumma/Vaalea tila",
+    "Light": "Vaalea",
+    "Dark": "Tumma",
+    "Seed_color": "Pääväri",
+    "Network": "Verkko",
+    "Socket_timeout": "Socket-aikakatkaisu",
+    "seconds": "$time sekuntia",
+    "Select_Socket_Timeout": "Valitse socket-aikakatkaisu",
+    "Cancel": "Peruuta",
+    "Confirm": "Vahvista",
+    "Protocol": "Protokolla",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Muu",
+    "Language": "Kieli",
+    "Languages": {
+      "English": "Englanti"
+    },
+    "Reset_all_persistent_data": "Nollaa kaikki pysyvät tiedot"
+  },
+  "About": {
+    "Author": "Tekijä",
+    "Not_Set": "Ei asetettu",
+    "App_version": "Sovelluksen versio",
+    "Build_number": "Koontinumero",
+    "GitHub_Sponsors": "GitHub-sponsorit",
+    "Launching_browser_": "Avaa selain: $uri"
+  },
+  "Errors": {
+    "Error": "Virhe",
+    "Ok": "OK",
+    "Issue_generating_error_message": "Virhettä ei voitu luoda",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Virheellinen FQDN tai IP (IPv4 tai IPv6)",
+    "Invalid_port__1_65535_": "Virheellinen portti (1-65535)",
+    "Invalid_Host_IP": "Virheellinen isäntä/IP",
+    "Invalid_Port": "Virheellinen portti",
+    "Issue_loading_payload_file": "Ongelmia payload-tiedoston lataamisessa",
+    "Connection_timed_out": "Yhteys aikakatkaistiin",
+    "The_remote_computer_refused_the_network_connection": "Etätietokone hylkäsi verkkoyhteyden",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload on liian suuri mahtuakseen yhteen UDP-tietolohkoon",
+    "Unknown_error": "Tuntematon virhe",
+    "Debug_log_is_empty": "Virheenetsintäloki on tyhjä",
+    "Issue_formatting_URL": "Ongelmia URL-osoitteen muotoilussa",
+    "Could_not_launch_URL": "URL-osoitetta ei voitu avata"
+  }
+}

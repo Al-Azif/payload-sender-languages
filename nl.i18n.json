@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "ONBEKEND PLATFORM",
+  "Unknown": "Onbekend",
+  "Pages": {
+    "Show_menu": "Menu weergeven",
+    "Payload_Sender": "Payload-zender",
+    "Debug_Log": "Debuglogboek",
+    "Settings": "Instellingen",
+    "LanguageSelection": "",
+    "About": "Over",
+    "Back": "Terug"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Hostnaam/Domein",
+    "Port": "Poort",
+    "Payload_path___": "Pad naar payload...",
+    "Browse___": "Bladeren...",
+    "Send_payload": "Payload verzenden",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Logboek downloaden...",
+    "Please_select_an_output_file_": "Selecteer een uitvoerbestand:",
+    "Clear_log": "Logboek wissen"
+  },
+  "Settings": {
+    "Theme": "Thema",
+    "Use_system_theme": "Systeemthema gebruiken",
+    "Dark_Light_mode": "Donkere/Lichte modus",
+    "Light": "Licht",
+    "Dark": "Donker",
+    "Seed_color": "Hoofdkleur",
+    "Network": "Netwerk",
+    "Socket_timeout": "Socket-time-out",
+    "seconds": "$time seconden",
+    "Select_Socket_Timeout": "Selecteer socket-time-out",
+    "Cancel": "Annuleren",
+    "Confirm": "Bevestigen",
+    "Protocol": "Protocol",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Anders",
+    "Language": "Taal",
+    "Languages": {
+      "English": "Engels"
+    },
+    "Reset_all_persistent_data": "Alle permanente gegevens resetten"
+  },
+  "About": {
+    "Author": "Auteur",
+    "Not_Set": "Niet ingesteld",
+    "App_version": "App-versie",
+    "Build_number": "Buildnummer",
+    "GitHub_Sponsors": "GitHub-sponsors",
+    "Launching_browser_": "Browser openen: $uri"
+  },
+  "Errors": {
+    "Error": "Fout",
+    "Ok": "OK",
+    "Issue_generating_error_message": "Probleem bij het genereren van de foutmelding",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ongeldige FQDN of IP (IPv4 of IPv6)",
+    "Invalid_port__1_65535_": "Ongeldige poort (1-65535)",
+    "Invalid_Host_IP": "Ongeldige host/IP",
+    "Invalid_Port": "Ongeldige poort",
+    "Issue_loading_payload_file": "Probleem bij het laden van het payload-bestand",
+    "Connection_timed_out": "Verbinding verlopen",
+    "The_remote_computer_refused_the_network_connection": "De externe computer weigerde de netwerkverbinding",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "De payload is te groot om in één UDP-gegevenssectie te passen",
+    "Unknown_error": "Onbekende fout",
+    "Debug_log_is_empty": "Het debuglogboek is leeg",
+    "Issue_formatting_URL": "Probleem met het opmaken van de URL",
+    "Could_not_launch_URL": "Kon de URL niet openen"
+  }
+}

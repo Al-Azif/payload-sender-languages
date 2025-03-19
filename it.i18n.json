@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "PIATTAFORMA SCONOSCIUTA",
+  "Unknown": "Sconosciuto",
+  "Pages": {
+    "Show_menu": "Mostra menu",
+    "Payload_Sender": "Mittente payload",
+    "Debug_Log": "Registro di debug",
+    "Settings": "Impostazioni",
+    "LanguageSelection": "",
+    "About": "Informazioni",
+    "Back": "Indietro"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Nome host/Dominio",
+    "Port": "Porta",
+    "Payload_path___": "Percorso payload...",
+    "Browse___": "Sfoglia...",
+    "Send_payload": "Invia payload",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Scarica registro...",
+    "Please_select_an_output_file_": "Seleziona un file di output:",
+    "Clear_log": "Cancella registro"
+  },
+  "Settings": {
+    "Theme": "Tema",
+    "Use_system_theme": "Usa tema di sistema",
+    "Dark_Light_mode": "Modalità Scuro/Chiaro",
+    "Light": "Chiaro",
+    "Dark": "Scuro",
+    "Seed_color": "Colore principale",
+    "Network": "Rete",
+    "Socket_timeout": "Timeout socket",
+    "seconds": "$time secondi",
+    "Select_Socket_Timeout": "Seleziona timeout socket",
+    "Cancel": "Annulla",
+    "Confirm": "Conferma",
+    "Protocol": "Protocollo",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Altro",
+    "Language": "Lingua",
+    "Languages": {
+      "English": "Inglese"
+    },
+    "Reset_all_persistent_data": "Reimposta tutti i dati persistenti"
+  },
+  "About": {
+    "Author": "Autore",
+    "Not_Set": "Non impostato",
+    "App_version": "Versione dell’app",
+    "Build_number": "Numero di build",
+    "GitHub_Sponsors": "Sponsor GitHub",
+    "Launching_browser_": "Apertura browser: $uri"
+  },
+  "Errors": {
+    "Error": "Errore",
+    "Ok": "OK",
+    "Issue_generating_error_message": "Problema nella generazione del messaggio di errore",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "FQDN o IP non valido (IPv4 o IPv6)",
+    "Invalid_port__1_65535_": "Porta non valida (1-65535)",
+    "Invalid_Host_IP": "Host/IP non valido",
+    "Invalid_Port": "Porta non valida",
+    "Issue_loading_payload_file": "Problema nel caricamento del file payload",
+    "Connection_timed_out": "Connessione scaduta",
+    "The_remote_computer_refused_the_network_connection": "Il computer remoto ha rifiutato la connessione di rete",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Il payload è troppo grande per una singola sezione dati UDP",
+    "Unknown_error": "Errore sconosciuto",
+    "Debug_log_is_empty": "Il registro di debug è vuoto",
+    "Issue_formatting_URL": "Problema nella formattazione dell’URL",
+    "Could_not_launch_URL": "Impossibile avviare l’URL"
+  }
+}

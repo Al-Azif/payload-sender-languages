@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "НЕИЗВЕСТНАЯ ПЛАТФОРМА",
+  "Unknown": "Неизвестно",
+  "Pages": {
+    "Show_menu": "Показать меню",
+    "Payload_Sender": "Отправитель полезной нагрузки",
+    "Debug_Log": "Журнал отладки",
+    "Settings": "Настройки",
+    "LanguageSelection": "",
+    "About": "О программе",
+    "Back": "Назад"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Имя хоста/Домен",
+    "Port": "Порт",
+    "Payload_path___": "Путь к полезной нагрузке...",
+    "Browse___": "Обзор...",
+    "Send_payload": "Отправить полезную нагрузку",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Скачать журнал...",
+    "Please_select_an_output_file_": "Выберите выходной файл:",
+    "Clear_log": "Очистить журнал"
+  },
+  "Settings": {
+    "Theme": "Тема",
+    "Use_system_theme": "Использовать системную тему",
+    "Dark_Light_mode": "Тёмный/Светлый режим",
+    "Light": "Светлый",
+    "Dark": "Тёмный",
+    "Seed_color": "Основной цвет",
+    "Network": "Сеть",
+    "Socket_timeout": "Тайм-аут сокета",
+    "seconds": "$time секунд",
+    "Select_Socket_Timeout": "Выберите тайм-аут сокета",
+    "Cancel": "Отмена",
+    "Confirm": "Подтвердить",
+    "Protocol": "Протокол",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Другое",
+    "Language": "Язык",
+    "Languages": {
+      "English": "Английский"
+    },
+    "Reset_all_persistent_data": "Сбросить все сохранённые данные"
+  },
+  "About": {
+    "Author": "Автор",
+    "Not_Set": "Не задано",
+    "App_version": "Версия приложения",
+    "Build_number": "Номер сборки",
+    "GitHub_Sponsors": "Спонсоры GitHub",
+    "Launching_browser_": "Запуск браузера: $uri"
+  },
+  "Errors": {
+    "Error": "Ошибка",
+    "Ok": "ОК",
+    "Issue_generating_error_message": "Ошибка при генерации сообщения об ошибке",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Недопустимый FQDN или IP (IPv4 или IPv6)",
+    "Invalid_port__1_65535_": "Недопустимый порт (1-65535)",
+    "Invalid_Host_IP": "Недопустимый хост/IP",
+    "Invalid_Port": "Недопустимый порт",
+    "Issue_loading_payload_file": "Ошибка загрузки файла полезной нагрузки",
+    "Connection_timed_out": "Время соединения истекло",
+    "The_remote_computer_refused_the_network_connection": "Удалённый компьютер отклонил сетевое соединение",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Полезная нагрузка слишком велика для одной UDP-секции данных",
+    "Unknown_error": "Неизвестная ошибка",
+    "Debug_log_is_empty": "Журнал отладки пуст",
+    "Issue_formatting_URL": "Ошибка форматирования URL",
+    "Could_not_launch_URL": "Не удалось открыть URL"
+  }
+}

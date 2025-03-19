@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "BİLİNMEYEN PLATFORM",
+  "Unknown": "Bilinmeyen",
+  "Pages": {
+    "Show_menu": "Menüyü göster",
+    "Payload_Sender": "Yük Gönderici",
+    "Debug_Log": "Hata Ayıklama Günlüğü",
+    "Settings": "Ayarlar",
+    "LanguageSelection": "",
+    "About": "Hakkında",
+    "Back": "Geri"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Host Adı/Domain",
+    "Port": "Bağlantı Noktası",
+    "Payload_path___": "Yük yolu...",
+    "Browse___": "Gözat...",
+    "Send_payload": "Yükü Gönder",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Günlüğü indir...",
+    "Please_select_an_output_file_": "Lütfen bir çıktı dosyası seçin:",
+    "Clear_log": "Günlüğü temizle"
+  },
+  "Settings": {
+    "Theme": "Tema",
+    "Use_system_theme": "Sistem temasını kullan",
+    "Dark_Light_mode": "Koyu/Açık mod",
+    "Light": "Açık",
+    "Dark": "Koyu",
+    "Seed_color": "Ana renk",
+    "Network": "Ağ",
+    "Socket_timeout": "Soket zaman aşımı",
+    "seconds": "$time saniye",
+    "Select_Socket_Timeout": "Soket zaman aşımını seç",
+    "Cancel": "İptal",
+    "Confirm": "Onayla",
+    "Protocol": "Protokol",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Diğer",
+    "Language": "Dil",
+    "Languages": {
+      "English": "İngilizce"
+    },
+    "Reset_all_persistent_data": "Tüm kalıcı verileri sıfırla"
+  },
+  "About": {
+    "Author": "Yazar",
+    "Not_Set": "Ayarlanmadı",
+    "App_version": "Uygulama sürümü",
+    "Build_number": "Derleme numarası",
+    "GitHub_Sponsors": "GitHub Sponsorları",
+    "Launching_browser_": "Tarayıcı başlatılıyor: $uri"
+  },
+  "Errors": {
+    "Error": "Hata",
+    "Ok": "Tamam",
+    "Issue_generating_error_message": "Hata mesajı oluşturma sorunu",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Geçersiz FQDN veya IP (IPv4 veya IPv6)",
+    "Invalid_port__1_65535_": "Geçersiz bağlantı noktası (1-65535)",
+    "Invalid_Host_IP": "Geçersiz Ana Makine/IP",
+    "Invalid_Port": "Geçersiz Bağlantı Noktası",
+    "Issue_loading_payload_file": "Yük dosyası yüklenirken sorun oluştu",
+    "Connection_timed_out": "Bağlantı zaman aşımına uğradı",
+    "The_remote_computer_refused_the_network_connection": "Uzak bilgisayar ağ bağlantısını reddetti",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Yük, tek bir UDP veri bölümüne sığamayacak kadar büyük",
+    "Unknown_error": "Bilinmeyen hata",
+    "Debug_log_is_empty": "Hata ayıklama günlüğü boş",
+    "Issue_formatting_URL": "URL biçimlendirme sorunu",
+    "Could_not_launch_URL": "URL başlatılamadı"
+  }
+}

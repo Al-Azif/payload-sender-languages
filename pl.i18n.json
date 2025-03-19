@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "NIEZNANA PLATFORMA",
+  "Unknown": "Nieznane",
+  "Pages": {
+    "Show_menu": "Pokaż menu",
+    "Payload_Sender": "Nadawca ładunku",
+    "Debug_Log": "Dziennik debugowania",
+    "Settings": "Ustawienia",
+    "LanguageSelection": "",
+    "About": "O aplikacji",
+    "Back": "Wstecz"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Nazwa hosta/Domena",
+    "Port": "Port",
+    "Payload_path___": "Ścieżka ładunku...",
+    "Browse___": "Przeglądaj...",
+    "Send_payload": "Wyślij ładunek",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Pobierz dziennik...",
+    "Please_select_an_output_file_": "Wybierz plik wyjściowy:",
+    "Clear_log": "Wyczyść dziennik"
+  },
+  "Settings": {
+    "Theme": "Motyw",
+    "Use_system_theme": "Użyj motywu systemowego",
+    "Dark_Light_mode": "Tryb ciemny/jasny",
+    "Light": "Jasny",
+    "Dark": "Ciemny",
+    "Seed_color": "Kolor bazowy",
+    "Network": "Sieć",
+    "Socket_timeout": "Limit czasu gniazda",
+    "seconds": "$time sekund",
+    "Select_Socket_Timeout": "Wybierz limit czasu gniazda",
+    "Cancel": "Anuluj",
+    "Confirm": "Potwierdź",
+    "Protocol": "Protokół",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Inne",
+    "Language": "Język",
+    "Languages": {
+      "English": "Angielski"
+    },
+    "Reset_all_persistent_data": "Resetuj wszystkie trwałe dane"
+  },
+  "About": {
+    "Author": "Autor",
+    "Not_Set": "Nie ustawiono",
+    "App_version": "Wersja aplikacji",
+    "Build_number": "Numer kompilacji",
+    "GitHub_Sponsors": "Sponsorzy GitHub",
+    "Launching_browser_": "Uruchamianie przeglądarki: $uri"
+  },
+  "Errors": {
+    "Error": "Błąd",
+    "Ok": "OK",
+    "Issue_generating_error_message": "Problem z generowaniem komunikatu o błędzie",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Nieprawidłowa nazwa FQDN lub IP (IPv4 lub IPv6)",
+    "Invalid_port__1_65535_": "Nieprawidłowy port (1-65535)",
+    "Invalid_Host_IP": "Nieprawidłowy host/IP",
+    "Invalid_Port": "Nieprawidłowy port",
+    "Issue_loading_payload_file": "Problem z wczytywaniem pliku ładunku",
+    "Connection_timed_out": "Przekroczono limit czasu połączenia",
+    "The_remote_computer_refused_the_network_connection": "Zdalny komputer odmówił połączenia sieciowego",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Ładunek jest zbyt duży, aby zmieścić się w jednej sekcji danych UDP",
+    "Unknown_error": "Nieznany błąd",
+    "Debug_log_is_empty": "Dziennik debugowania jest pusty",
+    "Issue_formatting_URL": "Problem z formatowaniem adresu URL",
+    "Could_not_launch_URL": "Nie można uruchomić adresu URL"
+  }
+}

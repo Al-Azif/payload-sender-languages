@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "UKJENT PLATTFORM",
+  "Unknown": "Ukjent",
+  "Pages": {
+    "Show_menu": "Vis meny",
+    "Payload_Sender": "Lastavsender",
+    "Debug_Log": "Feilsøkingslogg",
+    "Settings": "Innstillinger",
+    "LanguageSelection": "",
+    "About": "Om",
+    "Back": "Tilbake"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Vertsnavn/Domene",
+    "Port": "Port",
+    "Payload_path___": "Lastbane...",
+    "Browse___": "Bla gjennom...",
+    "Send_payload": "Send last",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Last ned logg...",
+    "Please_select_an_output_file_": "Velg en utdatafil:",
+    "Clear_log": "Tøm logg"
+  },
+  "Settings": {
+    "Theme": "Tema",
+    "Use_system_theme": "Bruk systemtema",
+    "Dark_Light_mode": "Mørk/Lys modus",
+    "Light": "Lys",
+    "Dark": "Mørk",
+    "Seed_color": "Hovedfarge",
+    "Network": "Nettverk",
+    "Socket_timeout": "Tidsavbrudd for socket",
+    "seconds": "$time sekunder",
+    "Select_Socket_Timeout": "Velg tidsavbrudd for socket",
+    "Cancel": "Avbryt",
+    "Confirm": "Bekreft",
+    "Protocol": "Protokoll",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Annet",
+    "Language": "Språk",
+    "Languages": {
+      "English": "Engelsk"
+    },
+    "Reset_all_persistent_data": "Tilbakestill alle vedvarende data"
+  },
+  "About": {
+    "Author": "Forfatter",
+    "Not_Set": "Ikke angitt",
+    "App_version": "Appversjon",
+    "Build_number": "Byggenummer",
+    "GitHub_Sponsors": "GitHub-sponsorer",
+    "Launching_browser_": "Åpner nettleser: $uri"
+  },
+  "Errors": {
+    "Error": "Feil",
+    "Ok": "OK",
+    "Issue_generating_error_message": "Problem med å generere feilmelding",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ugyldig FQDN eller IP (IPv4 eller IPv6)",
+    "Invalid_port__1_65535_": "Ugyldig port (1-65535)",
+    "Invalid_Host_IP": "Ugyldig vert/IP",
+    "Invalid_Port": "Ugyldig port",
+    "Issue_loading_payload_file": "Problem med å laste inn lastfil",
+    "Connection_timed_out": "Tilkoblingen tidsavbrutt",
+    "The_remote_computer_refused_the_network_connection": "Den eksterne datamaskinen avslo nettverkstilkoblingen",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Lasten er for stor til å passe i en enkelt UDP-dataseksjon",
+    "Unknown_error": "Ukjent feil",
+    "Debug_log_is_empty": "Feilsøkingsloggen er tom",
+    "Issue_formatting_URL": "Problem med formatering av URL",
+    "Could_not_launch_URL": "Kunne ikke åpne URL"
+  }
+}

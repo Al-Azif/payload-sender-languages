@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "UKENDT PLATFORM",
+  "Unknown": "Ukendt",
+  "Pages": {
+    "Show_menu": "Vis menu",
+    "Payload_Sender": "Payload-afsender",
+    "Debug_Log": "Fejllogningslog",
+    "Settings": "Indstillinger",
+    "LanguageSelection": "",
+    "About": "Om",
+    "Back": "Tilbage"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Værtsnavn/Domæne",
+    "Port": "Port",
+    "Payload_path___": "Payload-sti...",
+    "Browse___": "Gennemse...",
+    "Send_payload": "Send payload",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Download log...",
+    "Please_select_an_output_file_": "Vælg en outputfil:",
+    "Clear_log": "Ryd log"
+  },
+  "Settings": {
+    "Theme": "Tema",
+    "Use_system_theme": "Brug systemtema",
+    "Dark_Light_mode": "Mørk/Lys tilstand",
+    "Light": "Lys",
+    "Dark": "Mørk",
+    "Seed_color": "Grundfarve",
+    "Network": "Netværk",
+    "Socket_timeout": "Socket-timeout",
+    "seconds": "$time sekunder",
+    "Select_Socket_Timeout": "Vælg socket-timeout",
+    "Cancel": "Annuller",
+    "Confirm": "Bekræft",
+    "Protocol": "Protokol",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Andet",
+    "Language": "Sprog",
+    "Languages": {
+      "English": "Engelsk"
+    },
+    "Reset_all_persistent_data": "Nulstil alle vedvarende data"
+  },
+  "About": {
+    "Author": "Forfatter",
+    "Not_Set": "Ikke angivet",
+    "App_version": "App-version",
+    "Build_number": "Bygningsnummer",
+    "GitHub_Sponsors": "GitHub-sponsorer",
+    "Launching_browser_": "Åbner browser: $uri"
+  },
+  "Errors": {
+    "Error": "Fejl",
+    "Ok": "OK",
+    "Issue_generating_error_message": "Problem med at generere fejlmeddelelse",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ugyldig FQDN eller IP (IPv4 eller IPv6)",
+    "Invalid_port__1_65535_": "Ugyldig port (1-65535)",
+    "Invalid_Host_IP": "Ugyldig værts-IP",
+    "Invalid_Port": "Ugyldig port",
+    "Issue_loading_payload_file": "Problem med at indlæse payload-fil",
+    "Connection_timed_out": "Forbindelsen udløb",
+    "The_remote_computer_refused_the_network_connection": "Den eksterne computer afviste netværksforbindelsen",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload er for stor til at passe i en enkelt UDP-datasektion",
+    "Unknown_error": "Ukendt fejl",
+    "Debug_log_is_empty": "Fejllogningsloggen er tom",
+    "Issue_formatting_URL": "Problem med formatering af URL",
+    "Could_not_launch_URL": "Kunne ikke starte URL"
+  }
+}

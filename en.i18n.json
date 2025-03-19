@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "UNKNOWN PLATFORM",
+  "Unknown": "Unknown",
+  "Pages": {
+    "Show_menu": "Show menu",
+    "Payload_Sender": "Payload Sender",
+    "Debug_Log": "Debug Log",
+    "Settings": "Settings",
+    "LanguageSelection": "Language Selection",
+    "About": "About",
+    "Back": "Back"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Hostname/Domain",
+    "Port": "Port",
+    "Payload_path___": "Payload path...",
+    "Browse___": "Browse...",
+    "Send_payload": "Send payload",
+    "Successfully_sent_payload_": "Successfully sent payload!"
+  },
+  "Debug_Log": {
+    "Download_log___": "Download log...",
+    "Please_select_an_output_file_": "Please select an output file:",
+    "Clear_log": "Clear log"
+  },
+  "Settings": {
+    "Theme": "Theme",
+    "Use_system_theme": "Use system theme",
+    "Dark_Light_mode": "Dark/Light mode",
+    "Light": "Light",
+    "Dark": "Dark",
+    "Seed_color": "Seed color",
+    "Network": "Network",
+    "Socket_timeout": "Socket timeout",
+    "seconds": "$time seconds",
+    "Select_Socket_Timeout": "Select Socket Timeout",
+    "Cancel": "Cancel",
+    "Confirm": "Confirm",
+    "Protocol": "Protocol",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Other",
+    "Language": "Language",
+    "Languages": {
+      "English": "English"
+    },
+    "Reset_all_persistent_data": "Reset all persistent data"
+  },
+  "About": {
+    "Author": "Author",
+    "Not_Set": "Not Set",
+    "App_version": "App version",
+    "Build_number": "Build number",
+    "GitHub_Sponsors": "GitHub Sponsors",
+    "Launching_browser_": "Launching browser: $uri"
+  },
+  "Errors": {
+    "Error": "Error",
+    "Ok": "Ok",
+    "Issue_generating_error_message": "Issue generating error message",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Invalid FQDN or IP (IPv4 or IPv6)",
+    "Invalid_port__1_65535_": "Invalid port (1-65535)",
+    "Invalid_Host_IP": "Invalid Host/IP",
+    "Invalid_Port": "Invalid Port",
+    "Issue_loading_payload_file": "Issue loading payload file",
+    "Connection_timed_out": "Connection timed out",
+    "The_remote_computer_refused_the_network_connection": "The remote computer refused the network connection",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload too large to fit into a single UDP data section",
+    "Unknown_error": "Unknown error",
+    "Debug_log_is_empty": "Debug log is empty",
+    "Issue_formatting_URL": "Issue formatting URL",
+    "Could_not_launch_URL": "Could not launch URL"
+  }
+}

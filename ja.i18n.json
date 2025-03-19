@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "不明なプラットフォーム",
+  "Unknown": "不明",
+  "Pages": {
+    "Show_menu": "メニューを表示",
+    "Payload_Sender": "ペイロード送信",
+    "Debug_Log": "デバッグログ",
+    "Settings": "設定",
+    "LanguageSelection": "",
+    "About": "概要",
+    "Back": "戻る"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/ホスト名/ドメイン",
+    "Port": "ポート",
+    "Payload_path___": "ペイロードのパス...",
+    "Browse___": "参照...",
+    "Send_payload": "ペイロードを送信",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "ログをダウンロード...",
+    "Please_select_an_output_file_": "出力ファイルを選択してください:",
+    "Clear_log": "ログをクリア"
+  },
+  "Settings": {
+    "Theme": "テーマ",
+    "Use_system_theme": "システムのテーマを使用",
+    "Dark_Light_mode": "ダーク/ライトモード",
+    "Light": "ライト",
+    "Dark": "ダーク",
+    "Seed_color": "基本色",
+    "Network": "ネットワーク",
+    "Socket_timeout": "ソケットタイムアウト",
+    "seconds": "$time 秒",
+    "Select_Socket_Timeout": "ソケットタイムアウトを選択",
+    "Cancel": "キャンセル",
+    "Confirm": "確認",
+    "Protocol": "プロトコル",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "その他",
+    "Language": "言語",
+    "Languages": {
+      "English": "英語"
+    },
+    "Reset_all_persistent_data": "すべての永続データをリセット"
+  },
+  "About": {
+    "Author": "作成者",
+    "Not_Set": "未設定",
+    "App_version": "アプリのバージョン",
+    "Build_number": "ビルド番号",
+    "GitHub_Sponsors": "GitHub スポンサー",
+    "Launching_browser_": "ブラウザを起動: $uri"
+  },
+  "Errors": {
+    "Error": "エラー",
+    "Ok": "OK",
+    "Issue_generating_error_message": "エラーメッセージの生成に問題が発生しました",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "無効な FQDN または IP (IPv4 または IPv6)",
+    "Invalid_port__1_65535_": "無効なポート (1-65535)",
+    "Invalid_Host_IP": "無効なホスト/IP",
+    "Invalid_Port": "無効なポート",
+    "Issue_loading_payload_file": "ペイロードファイルの読み込みに問題が発生しました",
+    "Connection_timed_out": "接続がタイムアウトしました",
+    "The_remote_computer_refused_the_network_connection": "リモートコンピュータがネットワーク接続を拒否しました",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "ペイロードが大きすぎて単一の UDP データセクションに収まりません",
+    "Unknown_error": "不明なエラー",
+    "Debug_log_is_empty": "デバッグログが空です",
+    "Issue_formatting_URL": "URL のフォーマットに問題が発生しました",
+    "Could_not_launch_URL": "URL を開くことができませんでした"
+  }
+}

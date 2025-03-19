@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "НЕВІДОМА ПЛАТФОРМА",
+  "Unknown": "Невідомо",
+  "Pages": {
+    "Show_menu": "Показати меню",
+    "Payload_Sender": "Відправник навантаження",
+    "Debug_Log": "Журнал налагодження",
+    "Settings": "Налаштування",
+    "LanguageSelection": "",
+    "About": "Про програму",
+    "Back": "Назад"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Ім'я хоста/Домен",
+    "Port": "Порт",
+    "Payload_path___": "Шлях до навантаження...",
+    "Browse___": "Переглянути...",
+    "Send_payload": "Надіслати навантаження",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Завантажити журнал...",
+    "Please_select_an_output_file_": "Будь ласка, виберіть вихідний файл:",
+    "Clear_log": "Очистити журнал"
+  },
+  "Settings": {
+    "Theme": "Тема",
+    "Use_system_theme": "Використовувати тему системи",
+    "Dark_Light_mode": "Темний/Світлий режим",
+    "Light": "Світлий",
+    "Dark": "Темний",
+    "Seed_color": "Основний колір",
+    "Network": "Мережа",
+    "Socket_timeout": "Тайм-аут сокета",
+    "seconds": "$time секунд",
+    "Select_Socket_Timeout": "Вибрати тайм-аут сокета",
+    "Cancel": "Скасувати",
+    "Confirm": "Підтвердити",
+    "Protocol": "Протокол",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Інше",
+    "Language": "Мова",
+    "Languages": {
+      "English": "Англійська"
+    },
+    "Reset_all_persistent_data": "Скинути всі збережені дані"
+  },
+  "About": {
+    "Author": "Автор",
+    "Not_Set": "Не встановлено",
+    "App_version": "Версія додатка",
+    "Build_number": "Номер збірки",
+    "GitHub_Sponsors": "Спонсори GitHub",
+    "Launching_browser_": "Запуск браузера: $uri"
+  },
+  "Errors": {
+    "Error": "Помилка",
+    "Ok": "OK",
+    "Issue_generating_error_message": "Проблема з генерацією повідомлення про помилку",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Недійсний FQDN або IP (IPv4 чи IPv6)",
+    "Invalid_port__1_65535_": "Недійсний порт (1-65535)",
+    "Invalid_Host_IP": "Недійсний хост/IP",
+    "Invalid_Port": "Недійсний порт",
+    "Issue_loading_payload_file": "Проблема із завантаженням файлу навантаження",
+    "Connection_timed_out": "Час очікування з'єднання вийшов",
+    "The_remote_computer_refused_the_network_connection": "Віддалений комп’ютер відхилив мережеве з’єднання",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Навантаження занадто велике для одного UDP-пакету",
+    "Unknown_error": "Невідома помилка",
+    "Debug_log_is_empty": "Журнал налагодження порожній",
+    "Issue_formatting_URL": "Проблема з форматуванням URL",
+    "Could_not_launch_URL": "Не вдалося запустити URL"
+  }
+}

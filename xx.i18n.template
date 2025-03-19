@@ -1,0 +1,71 @@
+{
+  "UNKNOWN_PLATFORM": "",
+  "Unknown": "",
+  "Pages": {
+    "Show_menu": "",
+    "Payload_Sender": "",
+    "Debug_Log": "",
+    "Settings": "",
+    "LanguageSelection": "",
+    "About": "",
+    "Back": ""
+  },
+  "Home": {
+    "IP_Hostname_Domain": "",
+    "Port": "",
+    "Payload_path___": "",
+    "Browse___": "",
+    "Send_payload": "",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "",
+    "Please_select_an_output_file_": "",
+    "Clear_log": ""
+  },
+  "Settings": {
+    "Theme": "",
+    "Use_system_theme": "",
+    "Dark_Light_mode": "",
+    "Light": "",
+    "Dark": "",
+    "Seed_color": "",
+    "Network": "",
+    "Socket_timeout": "",
+    "seconds": "",
+    "Protocol": "",
+    "TCP": "",
+    "UDP": "",
+    "Other": "",
+    "Language": "",
+    "Languages": {
+      "English": "English"
+    },
+    "Reset_all_persistent_data": ""
+  },
+  "About": {
+    "Author": "",
+    "Not_Set": "",
+    "App_version": "",
+    "Build_number": "",
+    "GitHub_Sponsors": "",
+    "Launching_browser_": ""
+  },
+  "Errors": {
+    "Error": "",
+    "Ok": "",
+    "Issue_generating_error_message": "",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "",
+    "Invalid_port__1_65535_": "",
+    "Invalid_Host_IP": "",
+    "Invalid_Port": "",
+    "Issue_loading_payload_file": "",
+    "Connection_timed_out": "",
+    "The_remote_computer_refused_the_network_connection": "",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "",
+    "Unknown_error": "",
+    "Debug_log_is_empty": "",
+    "Issue_formatting_URL": "",
+    "Could_not_launch_URL": ""
+  }
+}

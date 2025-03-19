@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "UNBEKANNTE PLATTFORM",
+  "Unknown": "Unbekannt",
+  "Pages": {
+    "Show_menu": "Menü anzeigen",
+    "Payload_Sender": "Payload-Sender",
+    "Debug_Log": "Debug-Protokoll",
+    "Settings": "Einstellungen",
+    "LanguageSelection": "",
+    "About": "Über",
+    "Back": "Zurück"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Hostname/Domäne",
+    "Port": "Port",
+    "Payload_path___": "Payload-Pfad...",
+    "Browse___": "Durchsuchen...",
+    "Send_payload": "Payload senden",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Protokoll herunterladen...",
+    "Please_select_an_output_file_": "Bitte eine Ausgabedatei auswählen:",
+    "Clear_log": "Protokoll löschen"
+  },
+  "Settings": {
+    "Theme": "Thema",
+    "Use_system_theme": "Systemthema verwenden",
+    "Dark_Light_mode": "Dunkel/Hell-Modus",
+    "Light": "Hell",
+    "Dark": "Dunkel",
+    "Seed_color": "Grundfarbe",
+    "Network": "Netzwerk",
+    "Socket_timeout": "Socket-Zeitüberschreitung",
+    "seconds": "$time Sekunden",
+    "Select_Socket_Timeout": "Socket-Zeitüberschreitung auswählen",
+    "Cancel": "Abbrechen",
+    "Confirm": "Bestätigen",
+    "Protocol": "Protokoll",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Andere",
+    "Language": "Sprache",
+    "Languages": {
+      "English": "Englisch"
+    },
+    "Reset_all_persistent_data": "Alle gespeicherten Daten zurücksetzen"
+  },
+  "About": {
+    "Author": "Autor",
+    "Not_Set": "Nicht festgelegt",
+    "App_version": "App-Version",
+    "Build_number": "Build-Nummer",
+    "GitHub_Sponsors": "GitHub-Sponsoren",
+    "Launching_browser_": "Browser wird gestartet: $uri"
+  },
+  "Errors": {
+    "Error": "Fehler",
+    "Ok": "OK",
+    "Issue_generating_error_message": "Problem beim Erstellen der Fehlermeldung",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ungültiger FQDN oder IP (IPv4 oder IPv6)",
+    "Invalid_port__1_65535_": "Ungültiger Port (1-65535)",
+    "Invalid_Host_IP": "Ungültiger Host/IP",
+    "Invalid_Port": "Ungültiger Port",
+    "Issue_loading_payload_file": "Problem beim Laden der Payload-Datei",
+    "Connection_timed_out": "Verbindungszeitüberschreitung",
+    "The_remote_computer_refused_the_network_connection": "Der entfernte Computer hat die Netzwerkverbindung abgelehnt",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload ist zu groß für eine einzelne UDP-Datensektion",
+    "Unknown_error": "Unbekannter Fehler",
+    "Debug_log_is_empty": "Debug-Protokoll ist leer",
+    "Issue_formatting_URL": "Problem bei der Formatierung der URL",
+    "Could_not_launch_URL": "URL konnte nicht gestartet werden"
+  }
+}

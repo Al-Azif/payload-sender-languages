@@ -1,0 +1,74 @@
+{
+  "UNKNOWN_PLATFORM": "PLATEFORME INCONNUE",
+  "Unknown": "Inconnu",
+  "Pages": {
+    "Show_menu": "Afficher le menu",
+    "Payload_Sender": "Expéditeur de charge utile",
+    "Debug_Log": "Journal de débogage",
+    "Settings": "Paramètres",
+    "LanguageSelection": "",
+    "About": "À propos",
+    "Back": "Retour"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Nom d’hôte/Domaine",
+    "Port": "Port",
+    "Payload_path___": "Chemin de la charge utile...",
+    "Browse___": "Parcourir...",
+    "Send_payload": "Envoyer la charge utile",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Télécharger le journal...",
+    "Please_select_an_output_file_": "Veuillez sélectionner un fichier de sortie :",
+    "Clear_log": "Effacer le journal"
+  },
+  "Settings": {
+    "Theme": "Thème",
+    "Use_system_theme": "Utiliser le thème du système",
+    "Dark_Light_mode": "Mode Sombre/Clair",
+    "Light": "Clair",
+    "Dark": "Sombre",
+    "Seed_color": "Couleur de base",
+    "Network": "Réseau",
+    "Socket_timeout": "Délai d’expiration du socket",
+    "seconds": "$time secondes",
+    "Select_Socket_Timeout": "Sélectionner le délai d’expiration du socket",
+    "Cancel": "Annuler",
+    "Confirm": "Confirmer",
+    "Protocol": "Protocole",
+    "TCP": "TCP :",
+    "UDP": "UDP :",
+    "Other": "Autre",
+    "Language": "Langue",
+    "Languages": {
+      "English": "Anglais"
+    },
+    "Reset_all_persistent_data": "Réinitialiser toutes les données persistantes"
+  },
+  "About": {
+    "Author": "Auteur",
+    "Not_Set": "Non défini",
+    "App_version": "Version de l’application",
+    "Build_number": "Numéro de version",
+    "GitHub_Sponsors": "Sponsors GitHub",
+    "Launching_browser_": "Ouverture du navigateur : $uri"
+  },
+  "Errors": {
+    "Error": "Erreur",
+    "Ok": "OK",
+    "Issue_generating_error_message": "Problème lors de la génération du message d’erreur",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "FQDN ou IP invalide (IPv4 ou IPv6)",
+    "Invalid_port__1_65535_": "Port invalide (1-65535)",
+    "Invalid_Host_IP": "Hôte/IP invalide",
+    "Invalid_Port": "Port invalide",
+    "Issue_loading_payload_file": "Problème de chargement du fichier de charge utile",
+    "Connection_timed_out": "Délai de connexion expiré",
+    "The_remote_computer_refused_the_network_connection": "L’ordinateur distant a refusé la connexion réseau",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "La charge utile est trop grande pour tenir dans une seule section de données UDP",
+    "Unknown_error": "Erreur inconnue",
+    "Debug_log_is_empty": "Le journal de débogage est vide",
+    "Issue_formatting_URL": "Problème de formatage de l’URL",
+    "Could_not_launch_URL": "Impossible de lancer l’URL"
+  }
+}
