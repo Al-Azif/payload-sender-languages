@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Problema nel caricamento del file payload",
     "Connection_timed_out": "Connessione scaduta",
     "The_remote_computer_refused_the_network_connection": "Il computer remoto ha rifiutato la connessione di rete",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Il payload è troppo grande per una singola sezione dati UDP",
     "Unknown_socket_error": "",
     "Unknown_error": "Errore sconosciuto",

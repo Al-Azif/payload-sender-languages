@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Проблема із завантаженням файлу навантаження",
     "Connection_timed_out": "Час очікування з'єднання вийшов",
     "The_remote_computer_refused_the_network_connection": "Віддалений комп’ютер відхилив мережеве з’єднання",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Навантаження занадто велике для одного UDP-пакету",
     "Unknown_socket_error": "",
     "Unknown_error": "Невідома помилка",

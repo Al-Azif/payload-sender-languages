@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "مشكلة في تحميل ملف الحمولة",
     "Connection_timed_out": "انتهت مهلة الاتصال",
     "The_remote_computer_refused_the_network_connection": "رفض الكمبيوتر البعيد الاتصال بالشبكة",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "الحمولة كبيرة جدًا بحيث لا تتناسب مع قسم بيانات UDP واحد",
     "Unknown_socket_error": "",
     "Unknown_error": "خطأ غير معروف",

@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Problém s načítáním souboru zátěže",
     "Connection_timed_out": "Vypršel časový limit připojení",
     "The_remote_computer_refused_the_network_connection": "Vzdálený počítač odmítl síťové připojení",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Zátěž je příliš velká na to, aby se vešla do jedné UDP datové sekce",
     "Unknown_socket_error": "",
     "Unknown_error": "Neznámá chyba",

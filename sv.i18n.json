@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Problem vid inläsning av payload-fil",
     "Connection_timed_out": "Anslutningen tog för lång tid",
     "The_remote_computer_refused_the_network_connection": "Den externa datorn avvisade nätverksanslutningen",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload är för stor för att få plats i en enda UDP-datasektion",
     "Unknown_socket_error": "",
     "Unknown_error": "Okänt fel",

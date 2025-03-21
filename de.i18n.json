@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Problem beim Laden der Payload-Datei",
     "Connection_timed_out": "Verbindungszeitüberschreitung",
     "The_remote_computer_refused_the_network_connection": "Der entfernte Computer hat die Netzwerkverbindung abgelehnt",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload ist zu groß für eine einzelne UDP-Datensektion",
     "Unknown_socket_error": "",
     "Unknown_error": "Unbekannter Fehler",

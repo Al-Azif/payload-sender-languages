@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "পেলোড ফাইল লোড করতে সমস্যা হয়েছে",
     "Connection_timed_out": "সংযোগের সময় শেষ",
     "The_remote_computer_refused_the_network_connection": "রিমোট কম্পিউটার নেটওয়ার্ক সংযোগ প্রত্যাখ্যান করেছে",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "পেলোডটি খুব বড়, এটি একক UDP ডাটা বিভাগে ফিট হয় না",
     "Unknown_socket_error": "",
     "Unknown_error": "অজানা ত্রুটি",

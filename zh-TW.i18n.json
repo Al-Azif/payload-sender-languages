@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "載入有效負載檔案時發生問題",
     "Connection_timed_out": "連線逾時",
     "The_remote_computer_refused_the_network_connection": "遠端電腦拒絕了網路連線",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "有效負載過大，無法容納於單個 UDP 資料區段",
     "Unknown_socket_error": "",
     "Unknown_error": "未知錯誤",

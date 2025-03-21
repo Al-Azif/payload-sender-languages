@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Yük dosyası yüklenirken sorun oluştu",
     "Connection_timed_out": "Bağlantı zaman aşımına uğradı",
     "The_remote_computer_refused_the_network_connection": "Uzak bilgisayar ağ bağlantısını reddetti",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Yük, tek bir UDP veri bölümüne sığamayacak kadar büyük",
     "Unknown_socket_error": "",
     "Unknown_error": "Bilinmeyen hata",

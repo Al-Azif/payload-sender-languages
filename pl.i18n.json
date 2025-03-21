@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Problem z wczytywaniem pliku ładunku",
     "Connection_timed_out": "Przekroczono limit czasu połączenia",
     "The_remote_computer_refused_the_network_connection": "Zdalny komputer odmówił połączenia sieciowego",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Ładunek jest zbyt duży, aby zmieścić się w jednej sekcji danych UDP",
     "Unknown_socket_error": "",
     "Unknown_error": "Nieznany błąd",

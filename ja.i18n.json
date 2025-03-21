@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "ペイロードファイルの読み込みに問題が発生しました",
     "Connection_timed_out": "接続がタイムアウトしました",
     "The_remote_computer_refused_the_network_connection": "リモートコンピュータがネットワーク接続を拒否しました",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "ペイロードが大きすぎて単一の UDP データセクションに収まりません",
     "Unknown_socket_error": "",
     "Unknown_error": "不明なエラー",

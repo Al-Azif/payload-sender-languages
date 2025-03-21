@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Problem med å laste inn lastfil",
     "Connection_timed_out": "Tilkoblingen tidsavbrutt",
     "The_remote_computer_refused_the_network_connection": "Den eksterne datamaskinen avslo nettverkstilkoblingen",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Lasten er for stor til å passe i en enkelt UDP-dataseksjon",
     "Unknown_socket_error": "",
     "Unknown_error": "Ukjent feil",

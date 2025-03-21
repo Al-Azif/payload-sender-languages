@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "",
     "Connection_timed_out": "",
     "The_remote_computer_refused_the_network_connection": "",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "",
     "Unknown_socket_error": "",
     "Unknown_error": "",

@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Ошибка загрузки файла полезной нагрузки",
     "Connection_timed_out": "Время соединения истекло",
     "The_remote_computer_refused_the_network_connection": "Удалённый компьютер отклонил сетевое соединение",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Полезная нагрузка слишком велика для одной UDP-секции данных",
     "Unknown_socket_error": "",
     "Unknown_error": "Неизвестная ошибка",

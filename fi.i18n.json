@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Ongelmia payload-tiedoston lataamisessa",
     "Connection_timed_out": "Yhteys aikakatkaistiin",
     "The_remote_computer_refused_the_network_connection": "Etätietokone hylkäsi verkkoyhteyden",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload on liian suuri mahtuakseen yhteen UDP-tietolohkoon",
     "Unknown_socket_error": "",
     "Unknown_error": "Tuntematon virhe",

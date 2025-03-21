@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Probleem bij het laden van het payload-bestand",
     "Connection_timed_out": "Verbinding verlopen",
     "The_remote_computer_refused_the_network_connection": "De externe computer weigerde de netwerkverbinding",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "De payload is te groot om in één UDP-gegevenssectie te passen",
     "Unknown_socket_error": "",
     "Unknown_error": "Onbekende fout",

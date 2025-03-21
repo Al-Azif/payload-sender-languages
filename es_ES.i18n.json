@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "Problema al cargar el archivo de carga útil",
     "Connection_timed_out": "Tiempo de conexión agotado",
     "The_remote_computer_refused_the_network_connection": "El ordenador remoto rechazó la conexión de red",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "La carga útil es demasiado grande para una sola sección de datos UDP",
     "Unknown_socket_error": "",
     "Unknown_error": "Error desconocido",

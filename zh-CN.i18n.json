@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "加载负载文件时出现问题",
     "Connection_timed_out": "连接超时",
     "The_remote_computer_refused_the_network_connection": "远程计算机拒绝了网络连接",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "负载过大，无法适应单个 UDP 数据部分",
     "Unknown_socket_error": "",
     "Unknown_error": "未知错误",

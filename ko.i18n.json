@@ -66,6 +66,7 @@
     "Issue_loading_payload_file": "페이로드 파일 로드 문제 발생",
     "Connection_timed_out": "연결 시간이 초과됨",
     "The_remote_computer_refused_the_network_connection": "원격 컴퓨터가 네트워크 연결을 거부함",
+    "No_route_to_host": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "페이로드가 너무 커서 단일 UDP 데이터 섹션에 맞출 수 없음",
     "Unknown_socket_error": "",
     "Unknown_error": "알 수 없는 오류",
