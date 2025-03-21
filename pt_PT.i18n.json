@@ -1,0 +1,76 @@
+{
+  "UNKNOWN_PLATFORM": "PLATAFORMA DESCONHECIDA",
+  "Unknown": "Desconhecido",
+  "Pages": {
+    "Show_menu": "Mostrar menu",
+    "Payload_Sender": "Remetente da carga útil",
+    "Debug_Log": "Registo de depuração",
+    "Settings": "Definições",
+    "LanguageSelection": "",
+    "About": "Sobre",
+    "Back": "Voltar"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Nome do host/Domínio",
+    "Port": "Porta",
+    "Payload_path___": "Caminho da carga útil...",
+    "Browse___": "Procurar...",
+    "Send_payload": "Enviar carga útil",
+    "Successfully_sent_payload_": ""
+  },
+  "Debug_Log": {
+    "Download_log___": "Descarregar registo...",
+    "Please_select_an_output_file_": "Por favor, selecione um ficheiro de saída:",
+    "Clear_log": "Limpar registo"
+  },
+  "Settings": {
+    "Theme": "Tema",
+    "Use_system_theme": "Usar tema do sistema",
+    "Dark_Light_mode": "Modo Escuro/Claro",
+    "Light": "Claro",
+    "Dark": "Escuro",
+    "Seed_color": "Cor principal",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
+    "Network": "Rede",
+    "Socket_timeout": "Tempo limite do socket",
+    "seconds": "$time segundos",
+    "Select_Socket_Timeout": "Selecionar tempo limite do socket",
+    "Confirm": "Confirmar",
+    "Protocol": "Protocolo",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Outro",
+    "Language": "Idioma",
+    "Reset_all_persistent_data": "Repor todos os dados persistentes"
+  },
+  "About": {
+    "Author": "Autor",
+    "Not_Set": "Não definido",
+    "App_version": "Versão da aplicação",
+    "Build_number": "Número da compilação",
+    "GitHub_Sponsors": "Patrocinadores do GitHub",
+    "Launching_browser_": "A abrir navegador: $uri"
+  },
+  "Errors": {
+    "Error": "Erro",
+    "Ok": "OK",
+    "Issue_generating_error_message": "Problema ao gerar a mensagem de erro",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "FQDN ou IP inválido (IPv4 ou IPv6)",
+    "Invalid_port__1_65535_": "Porta inválida (1-65535)",
+    "Invalid_Host_IP": "Host/IP inválido",
+    "Invalid_Port": "Porta inválida",
+    "Issue_loading_payload_file": "Problema ao carregar o ficheiro de carga útil",
+    "Connection_timed_out": "Tempo de ligação expirado",
+    "The_remote_computer_refused_the_network_connection": "O computador remoto recusou a ligação de rede",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "A carga útil é demasiado grande para caber numa única secção de dados UDP",
+    "Unknown_socket_error": "",
+    "Unknown_error": "Erro desconhecido",
+    "Debug_log_is_empty": "O registo de depuração está vazio",
+    "Issue_formatting_URL": "Problema ao formatar o URL",
+    "Could_not_launch_URL": "Não foi possível abrir o URL"
+  }
+}

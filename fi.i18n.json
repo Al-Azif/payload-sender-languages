@@ -30,20 +30,21 @@
     "Light": "Vaalea",
     "Dark": "Tumma",
     "Seed_color": "Pääväri",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "Verkko",
     "Socket_timeout": "Socket-aikakatkaisu",
     "seconds": "$time sekuntia",
     "Select_Socket_Timeout": "Valitse socket-aikakatkaisu",
-    "Cancel": "Peruuta",
     "Confirm": "Vahvista",
     "Protocol": "Protokolla",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "Muu",
     "Language": "Kieli",
-    "Languages": {
-      "English": "Englanti"
-    },
     "Reset_all_persistent_data": "Nollaa kaikki pysyvät tiedot"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "Yhteys aikakatkaistiin",
     "The_remote_computer_refused_the_network_connection": "Etätietokone hylkäsi verkkoyhteyden",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload on liian suuri mahtuakseen yhteen UDP-tietolohkoon",
+    "Unknown_socket_error": "",
     "Unknown_error": "Tuntematon virhe",
     "Debug_log_is_empty": "Virheenetsintäloki on tyhjä",
     "Issue_formatting_URL": "Ongelmia URL-osoitteen muotoilussa",

@@ -30,20 +30,21 @@
     "Light": "라이트",
     "Dark": "다크",
     "Seed_color": "기본 색상",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "네트워크",
     "Socket_timeout": "소켓 타임아웃",
     "seconds": "$time 초",
     "Select_Socket_Timeout": "소켓 타임아웃 선택",
-    "Cancel": "취소",
     "Confirm": "확인",
     "Protocol": "프로토콜",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "기타",
     "Language": "언어",
-    "Languages": {
-      "English": "영어"
-    },
     "Reset_all_persistent_data": "모든 영구 데이터 재설정"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "연결 시간이 초과됨",
     "The_remote_computer_refused_the_network_connection": "원격 컴퓨터가 네트워크 연결을 거부함",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "페이로드가 너무 커서 단일 UDP 데이터 섹션에 맞출 수 없음",
+    "Unknown_socket_error": "",
     "Unknown_error": "알 수 없는 오류",
     "Debug_log_is_empty": "디버그 로그가 비어 있음",
     "Issue_formatting_URL": "URL 형식 지정 문제 발생",

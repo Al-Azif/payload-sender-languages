@@ -30,17 +30,21 @@
     "Light": "",
     "Dark": "",
     "Seed_color": "",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "",
     "Socket_timeout": "",
     "seconds": "",
+    "Select_Socket_Timeout": "",
+    "Confirm": "",
     "Protocol": "",
     "TCP": "",
     "UDP": "",
     "Other": "",
     "Language": "",
-    "Languages": {
-      "English": "English"
-    },
     "Reset_all_persistent_data": ""
   },
   "About": {
@@ -63,6 +67,7 @@
     "Connection_timed_out": "",
     "The_remote_computer_refused_the_network_connection": "",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "",
+    "Unknown_socket_error": "",
     "Unknown_error": "",
     "Debug_log_is_empty": "",
     "Issue_formatting_URL": "",

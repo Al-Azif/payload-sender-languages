@@ -30,20 +30,21 @@
     "Light": "浅色",
     "Dark": "深色",
     "Seed_color": "主色调",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "网络",
     "Socket_timeout": "套接字超时",
     "seconds": "$time 秒",
     "Select_Socket_Timeout": "选择套接字超时",
-    "Cancel": "取消",
     "Confirm": "确认",
     "Protocol": "协议",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "其他",
     "Language": "语言",
-    "Languages": {
-      "English": "英语"
-    },
     "Reset_all_persistent_data": "重置所有持久数据"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "连接超时",
     "The_remote_computer_refused_the_network_connection": "远程计算机拒绝了网络连接",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "负载过大，无法适应单个 UDP 数据部分",
+    "Unknown_socket_error": "",
     "Unknown_error": "未知错误",
     "Debug_log_is_empty": "调试日志为空",
     "Issue_formatting_URL": "格式化 URL 时出现问题",

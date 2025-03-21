@@ -30,20 +30,21 @@
     "Light": "Light",
     "Dark": "Dark",
     "Seed_color": "Seed color",
+    "Select_Color": "Select Color",
+    "Select_color_shade": "Select color shade",
+    "Selected_color_and_it_s_shades": "Selected color and it's shades",
+    "Cancel": "Cancel",
+    "Ok": "Ok",
     "Network": "Network",
     "Socket_timeout": "Socket timeout",
     "seconds": "$time seconds",
     "Select_Socket_Timeout": "Select Socket Timeout",
-    "Cancel": "Cancel",
     "Confirm": "Confirm",
     "Protocol": "Protocol",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "Other",
     "Language": "Language",
-    "Languages": {
-      "English": "English"
-    },
     "Reset_all_persistent_data": "Reset all persistent data"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "Connection timed out",
     "The_remote_computer_refused_the_network_connection": "The remote computer refused the network connection",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload too large to fit into a single UDP data section",
+    "Unknown_socket_error": "",
     "Unknown_error": "Unknown error",
     "Debug_log_is_empty": "Debug log is empty",
     "Issue_formatting_URL": "Issue formatting URL",

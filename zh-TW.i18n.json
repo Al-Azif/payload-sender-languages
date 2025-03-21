@@ -30,20 +30,21 @@
     "Light": "淺色",
     "Dark": "深色",
     "Seed_color": "主色調",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "網路",
     "Socket_timeout": "Socket 逾時",
     "seconds": "$time 秒",
     "Select_Socket_Timeout": "選擇 Socket 逾時",
-    "Cancel": "取消",
     "Confirm": "確認",
     "Protocol": "協議",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "其他",
     "Language": "語言",
-    "Languages": {
-      "English": "英文"
-    },
     "Reset_all_persistent_data": "重置所有持久資料"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "連線逾時",
     "The_remote_computer_refused_the_network_connection": "遠端電腦拒絕了網路連線",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "有效負載過大，無法容納於單個 UDP 資料區段",
+    "Unknown_socket_error": "",
     "Unknown_error": "未知錯誤",
     "Debug_log_is_empty": "偵錯日誌為空",
     "Issue_formatting_URL": "格式化 URL 時發生問題",

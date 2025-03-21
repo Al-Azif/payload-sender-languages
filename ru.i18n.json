@@ -30,20 +30,21 @@
     "Light": "Светлый",
     "Dark": "Тёмный",
     "Seed_color": "Основной цвет",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "Сеть",
     "Socket_timeout": "Тайм-аут сокета",
     "seconds": "$time секунд",
     "Select_Socket_Timeout": "Выберите тайм-аут сокета",
-    "Cancel": "Отмена",
     "Confirm": "Подтвердить",
     "Protocol": "Протокол",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "Другое",
     "Language": "Язык",
-    "Languages": {
-      "English": "Английский"
-    },
     "Reset_all_persistent_data": "Сбросить все сохранённые данные"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "Время соединения истекло",
     "The_remote_computer_refused_the_network_connection": "Удалённый компьютер отклонил сетевое соединение",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Полезная нагрузка слишком велика для одной UDP-секции данных",
+    "Unknown_socket_error": "",
     "Unknown_error": "Неизвестная ошибка",
     "Debug_log_is_empty": "Журнал отладки пуст",
     "Issue_formatting_URL": "Ошибка форматирования URL",

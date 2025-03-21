@@ -30,20 +30,21 @@
     "Light": "ライト",
     "Dark": "ダーク",
     "Seed_color": "基本色",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "ネットワーク",
     "Socket_timeout": "ソケットタイムアウト",
     "seconds": "$time 秒",
     "Select_Socket_Timeout": "ソケットタイムアウトを選択",
-    "Cancel": "キャンセル",
     "Confirm": "確認",
     "Protocol": "プロトコル",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "その他",
     "Language": "言語",
-    "Languages": {
-      "English": "英語"
-    },
     "Reset_all_persistent_data": "すべての永続データをリセット"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "接続がタイムアウトしました",
     "The_remote_computer_refused_the_network_connection": "リモートコンピュータがネットワーク接続を拒否しました",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "ペイロードが大きすぎて単一の UDP データセクションに収まりません",
+    "Unknown_socket_error": "",
     "Unknown_error": "不明なエラー",
     "Debug_log_is_empty": "デバッグログが空です",
     "Issue_formatting_URL": "URL のフォーマットに問題が発生しました",

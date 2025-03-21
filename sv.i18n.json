@@ -30,20 +30,21 @@
     "Light": "Ljust",
     "Dark": "Mörkt",
     "Seed_color": "Grundfärg",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "Nätverk",
     "Socket_timeout": "Socket-timeout",
     "seconds": "$time sekunder",
     "Select_Socket_Timeout": "Välj socket-timeout",
-    "Cancel": "Avbryt",
     "Confirm": "Bekräfta",
     "Protocol": "Protokoll",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "Annat",
     "Language": "Språk",
-    "Languages": {
-      "English": "Engelska"
-    },
     "Reset_all_persistent_data": "Återställ all beständig data"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "Anslutningen tog för lång tid",
     "The_remote_computer_refused_the_network_connection": "Den externa datorn avvisade nätverksanslutningen",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload är för stor för att få plats i en enda UDP-datasektion",
+    "Unknown_socket_error": "",
     "Unknown_error": "Okänt fel",
     "Debug_log_is_empty": "Felsökningsloggen är tom",
     "Issue_formatting_URL": "Problem vid formatering av URL",

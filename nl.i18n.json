@@ -30,20 +30,21 @@
     "Light": "Licht",
     "Dark": "Donker",
     "Seed_color": "Hoofdkleur",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "Netwerk",
     "Socket_timeout": "Socket-time-out",
     "seconds": "$time seconden",
     "Select_Socket_Timeout": "Selecteer socket-time-out",
-    "Cancel": "Annuleren",
     "Confirm": "Bevestigen",
     "Protocol": "Protocol",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "Anders",
     "Language": "Taal",
-    "Languages": {
-      "English": "Engels"
-    },
     "Reset_all_persistent_data": "Alle permanente gegevens resetten"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "Verbinding verlopen",
     "The_remote_computer_refused_the_network_connection": "De externe computer weigerde de netwerkverbinding",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "De payload is te groot om in één UDP-gegevenssectie te passen",
+    "Unknown_socket_error": "",
     "Unknown_error": "Onbekende fout",
     "Debug_log_is_empty": "Het debuglogboek is leeg",
     "Issue_formatting_URL": "Probleem met het opmaken van de URL",

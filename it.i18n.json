@@ -30,20 +30,21 @@
     "Light": "Chiaro",
     "Dark": "Scuro",
     "Seed_color": "Colore principale",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "Rete",
     "Socket_timeout": "Timeout socket",
     "seconds": "$time secondi",
     "Select_Socket_Timeout": "Seleziona timeout socket",
-    "Cancel": "Annulla",
     "Confirm": "Conferma",
     "Protocol": "Protocollo",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "Altro",
     "Language": "Lingua",
-    "Languages": {
-      "English": "Inglese"
-    },
     "Reset_all_persistent_data": "Reimposta tutti i dati persistenti"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "Connessione scaduta",
     "The_remote_computer_refused_the_network_connection": "Il computer remoto ha rifiutato la connessione di rete",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Il payload è troppo grande per una singola sezione dati UDP",
+    "Unknown_socket_error": "",
     "Unknown_error": "Errore sconosciuto",
     "Debug_log_is_empty": "Il registro di debug è vuoto",
     "Issue_formatting_URL": "Problema nella formattazione dell’URL",

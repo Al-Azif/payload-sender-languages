@@ -30,20 +30,21 @@
     "Light": "লাইট",
     "Dark": "ডার্ক",
     "Seed_color": "প্রাথমিক রং",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "নেটওয়ার্ক",
     "Socket_timeout": "সকেট টাইমআউট",
     "seconds": "$time সেকেন্ড",
     "Select_Socket_Timeout": "সকেট টাইমআউট নির্বাচন করুন",
-    "Cancel": "বাতিল করুন",
     "Confirm": "নিশ্চিত করুন",
     "Protocol": "প্রোটোকল",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "অন্যান্য",
     "Language": "ভাষা",
-    "Languages": {
-      "English": "ইংরেজি"
-    },
     "Reset_all_persistent_data": "সমস্ত সংরক্ষিত ডেটা রিসেট করুন"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "সংযোগের সময় শেষ",
     "The_remote_computer_refused_the_network_connection": "রিমোট কম্পিউটার নেটওয়ার্ক সংযোগ প্রত্যাখ্যান করেছে",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "পেলোডটি খুব বড়, এটি একক UDP ডাটা বিভাগে ফিট হয় না",
+    "Unknown_socket_error": "",
     "Unknown_error": "অজানা ত্রুটি",
     "Debug_log_is_empty": "ডিবাগ লগ ফাঁকা",
     "Issue_formatting_URL": "URL বিন্যাস করার সমস্যা",

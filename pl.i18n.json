@@ -30,20 +30,21 @@
     "Light": "Jasny",
     "Dark": "Ciemny",
     "Seed_color": "Kolor bazowy",
+    "Select_Color": "",
+    "Select_color_shade": "",
+    "Selected_color_and_it_s_shades": "",
+    "Cancel": "",
+    "Ok": "",
     "Network": "Sieć",
     "Socket_timeout": "Limit czasu gniazda",
     "seconds": "$time sekund",
     "Select_Socket_Timeout": "Wybierz limit czasu gniazda",
-    "Cancel": "Anuluj",
     "Confirm": "Potwierdź",
     "Protocol": "Protokół",
     "TCP": "TCP:",
     "UDP": "UDP:",
     "Other": "Inne",
     "Language": "Język",
-    "Languages": {
-      "English": "Angielski"
-    },
     "Reset_all_persistent_data": "Resetuj wszystkie trwałe dane"
   },
   "About": {
@@ -66,6 +67,7 @@
     "Connection_timed_out": "Przekroczono limit czasu połączenia",
     "The_remote_computer_refused_the_network_connection": "Zdalny komputer odmówił połączenia sieciowego",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Ładunek jest zbyt duży, aby zmieścić się w jednej sekcji danych UDP",
+    "Unknown_socket_error": "",
     "Unknown_error": "Nieznany błąd",
     "Debug_log_is_empty": "Dziennik debugowania jest pusty",
     "Issue_formatting_URL": "Problem z formatowaniem adresu URL",
