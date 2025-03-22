@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "OKÄND PLATTFORM",
-  "Unknown": "Okänd",
   "Pages": {
     "Show_menu": "Visa meny",
     "Payload_Sender": "Payload-avsändare",
@@ -27,8 +26,6 @@
     "Theme": "Tema",
     "Use_system_theme": "Använd systemtema",
     "Dark_Light_mode": "Mörkt/Ljust läge",
-    "Light": "Ljust",
-    "Dark": "Mörkt",
     "Seed_color": "Grundfärg",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Startar webbläsare: $uri"
   },
   "Errors": {
-    "Error": "Fel",
-    "Ok": "OK",
-    "Issue_generating_error_message": "Problem vid generering av felmeddelande",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ogiltig FQDN eller IP (IPv4 eller IPv6)",
     "Invalid_port__1_65535_": "Ogiltig port (1-65535)",
-    "Invalid_Host_IP": "Ogiltig värd/IP",
-    "Invalid_Port": "Ogiltig port",
-    "Issue_loading_payload_file": "Problem vid inläsning av payload-fil",
     "Connection_timed_out": "Anslutningen tog för lång tid",
     "The_remote_computer_refused_the_network_connection": "Den externa datorn avvisade nätverksanslutningen",
     "No_route_to_host": "",

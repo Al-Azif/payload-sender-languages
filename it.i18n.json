@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "PIATTAFORMA SCONOSCIUTA",
-  "Unknown": "Sconosciuto",
   "Pages": {
     "Show_menu": "Mostra menu",
     "Payload_Sender": "Mittente payload",
@@ -27,8 +26,6 @@
     "Theme": "Tema",
     "Use_system_theme": "Usa tema di sistema",
     "Dark_Light_mode": "Modalità Scuro/Chiaro",
-    "Light": "Chiaro",
-    "Dark": "Scuro",
     "Seed_color": "Colore principale",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Apertura browser: $uri"
   },
   "Errors": {
-    "Error": "Errore",
-    "Ok": "OK",
-    "Issue_generating_error_message": "Problema nella generazione del messaggio di errore",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "FQDN o IP non valido (IPv4 o IPv6)",
     "Invalid_port__1_65535_": "Porta non valida (1-65535)",
-    "Invalid_Host_IP": "Host/IP non valido",
-    "Invalid_Port": "Porta non valida",
-    "Issue_loading_payload_file": "Problema nel caricamento del file payload",
     "Connection_timed_out": "Connessione scaduta",
     "The_remote_computer_refused_the_network_connection": "Il computer remoto ha rifiutato la connessione di rete",
     "No_route_to_host": "",

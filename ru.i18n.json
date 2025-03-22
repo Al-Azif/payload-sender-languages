@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "НЕИЗВЕСТНАЯ ПЛАТФОРМА",
-  "Unknown": "Неизвестно",
   "Pages": {
     "Show_menu": "Показать меню",
     "Payload_Sender": "Отправитель полезной нагрузки",
@@ -27,8 +26,6 @@
     "Theme": "Тема",
     "Use_system_theme": "Использовать системную тему",
     "Dark_Light_mode": "Тёмный/Светлый режим",
-    "Light": "Светлый",
-    "Dark": "Тёмный",
     "Seed_color": "Основной цвет",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Запуск браузера: $uri"
   },
   "Errors": {
-    "Error": "Ошибка",
-    "Ok": "ОК",
-    "Issue_generating_error_message": "Ошибка при генерации сообщения об ошибке",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Недопустимый FQDN или IP (IPv4 или IPv6)",
     "Invalid_port__1_65535_": "Недопустимый порт (1-65535)",
-    "Invalid_Host_IP": "Недопустимый хост/IP",
-    "Invalid_Port": "Недопустимый порт",
-    "Issue_loading_payload_file": "Ошибка загрузки файла полезной нагрузки",
     "Connection_timed_out": "Время соединения истекло",
     "The_remote_computer_refused_the_network_connection": "Удалённый компьютер отклонил сетевое соединение",
     "No_route_to_host": "",

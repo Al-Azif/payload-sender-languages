@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "不明なプラットフォーム",
-  "Unknown": "不明",
   "Pages": {
     "Show_menu": "メニューを表示",
     "Payload_Sender": "ペイロード送信",
@@ -27,8 +26,6 @@
     "Theme": "テーマ",
     "Use_system_theme": "システムのテーマを使用",
     "Dark_Light_mode": "ダーク/ライトモード",
-    "Light": "ライト",
-    "Dark": "ダーク",
     "Seed_color": "基本色",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "ブラウザを起動: $uri"
   },
   "Errors": {
-    "Error": "エラー",
-    "Ok": "OK",
-    "Issue_generating_error_message": "エラーメッセージの生成に問題が発生しました",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "無効な FQDN または IP (IPv4 または IPv6)",
     "Invalid_port__1_65535_": "無効なポート (1-65535)",
-    "Invalid_Host_IP": "無効なホスト/IP",
-    "Invalid_Port": "無効なポート",
-    "Issue_loading_payload_file": "ペイロードファイルの読み込みに問題が発生しました",
     "Connection_timed_out": "接続がタイムアウトしました",
     "The_remote_computer_refused_the_network_connection": "リモートコンピュータがネットワーク接続を拒否しました",
     "No_route_to_host": "",

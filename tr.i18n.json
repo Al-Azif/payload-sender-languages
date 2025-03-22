@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "BİLİNMEYEN PLATFORM",
-  "Unknown": "Bilinmeyen",
   "Pages": {
     "Show_menu": "Menüyü göster",
     "Payload_Sender": "Yük Gönderici",
@@ -27,8 +26,6 @@
     "Theme": "Tema",
     "Use_system_theme": "Sistem temasını kullan",
     "Dark_Light_mode": "Koyu/Açık mod",
-    "Light": "Açık",
-    "Dark": "Koyu",
     "Seed_color": "Ana renk",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Tarayıcı başlatılıyor: $uri"
   },
   "Errors": {
-    "Error": "Hata",
-    "Ok": "Tamam",
-    "Issue_generating_error_message": "Hata mesajı oluşturma sorunu",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Geçersiz FQDN veya IP (IPv4 veya IPv6)",
     "Invalid_port__1_65535_": "Geçersiz bağlantı noktası (1-65535)",
-    "Invalid_Host_IP": "Geçersiz Ana Makine/IP",
-    "Invalid_Port": "Geçersiz Bağlantı Noktası",
-    "Issue_loading_payload_file": "Yük dosyası yüklenirken sorun oluştu",
     "Connection_timed_out": "Bağlantı zaman aşımına uğradı",
     "The_remote_computer_refused_the_network_connection": "Uzak bilgisayar ağ bağlantısını reddetti",
     "No_route_to_host": "",

@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "অজানা প্ল্যাটফর্ম",
-  "Unknown": "অজানা",
   "Pages": {
     "Show_menu": "মেনু দেখান",
     "Payload_Sender": "পেলোড প্রেরক",
@@ -27,8 +26,6 @@
     "Theme": "থিম",
     "Use_system_theme": "সিস্টেম থিম ব্যবহার করুন",
     "Dark_Light_mode": "ডার্ক/লাইট মোড",
-    "Light": "লাইট",
-    "Dark": "ডার্ক",
     "Seed_color": "প্রাথমিক রং",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "ব্রাউজার চালু করা হচ্ছে: $uri"
   },
   "Errors": {
-    "Error": "ত্রুটি",
-    "Ok": "ঠিক আছে",
-    "Issue_generating_error_message": "ত্রুটি বার্তা তৈরির সমস্যা",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "অবৈধ FQDN বা IP (IPv4 বা IPv6)",
     "Invalid_port__1_65535_": "অবৈধ পোর্ট (1-65535)",
-    "Invalid_Host_IP": "অবৈধ হোস্ট/IP",
-    "Invalid_Port": "অবৈধ পোর্ট",
-    "Issue_loading_payload_file": "পেলোড ফাইল লোড করতে সমস্যা হয়েছে",
     "Connection_timed_out": "সংযোগের সময় শেষ",
     "The_remote_computer_refused_the_network_connection": "রিমোট কম্পিউটার নেটওয়ার্ক সংযোগ প্রত্যাখ্যান করেছে",
     "No_route_to_host": "",

@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "未知平台",
-  "Unknown": "未知",
   "Pages": {
     "Show_menu": "顯示選單",
     "Payload_Sender": "有效負載發送器",
@@ -27,8 +26,6 @@
     "Theme": "主題",
     "Use_system_theme": "使用系統主題",
     "Dark_Light_mode": "深色/淺色模式",
-    "Light": "淺色",
-    "Dark": "深色",
     "Seed_color": "主色調",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "正在開啟瀏覽器：$uri"
   },
   "Errors": {
-    "Error": "錯誤",
-    "Ok": "確定",
-    "Issue_generating_error_message": "產生錯誤訊息時發生問題",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "無效的 FQDN 或 IP（IPv4 或 IPv6）",
     "Invalid_port__1_65535_": "無效的連接埠（1-65535）",
-    "Invalid_Host_IP": "無效的主機/IP",
-    "Invalid_Port": "無效的連接埠",
-    "Issue_loading_payload_file": "載入有效負載檔案時發生問題",
     "Connection_timed_out": "連線逾時",
     "The_remote_computer_refused_the_network_connection": "遠端電腦拒絕了網路連線",
     "No_route_to_host": "",

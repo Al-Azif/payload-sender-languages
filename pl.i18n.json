@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "NIEZNANA PLATFORMA",
-  "Unknown": "Nieznane",
   "Pages": {
     "Show_menu": "Pokaż menu",
     "Payload_Sender": "Nadawca ładunku",
@@ -27,8 +26,6 @@
     "Theme": "Motyw",
     "Use_system_theme": "Użyj motywu systemowego",
     "Dark_Light_mode": "Tryb ciemny/jasny",
-    "Light": "Jasny",
-    "Dark": "Ciemny",
     "Seed_color": "Kolor bazowy",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Uruchamianie przeglądarki: $uri"
   },
   "Errors": {
-    "Error": "Błąd",
-    "Ok": "OK",
-    "Issue_generating_error_message": "Problem z generowaniem komunikatu o błędzie",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Nieprawidłowa nazwa FQDN lub IP (IPv4 lub IPv6)",
     "Invalid_port__1_65535_": "Nieprawidłowy port (1-65535)",
-    "Invalid_Host_IP": "Nieprawidłowy host/IP",
-    "Invalid_Port": "Nieprawidłowy port",
-    "Issue_loading_payload_file": "Problem z wczytywaniem pliku ładunku",
     "Connection_timed_out": "Przekroczono limit czasu połączenia",
     "The_remote_computer_refused_the_network_connection": "Zdalny komputer odmówił połączenia sieciowego",
     "No_route_to_host": "",

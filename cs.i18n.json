@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "NEZNÁMÁ PLATFORMA",
-  "Unknown": "Neznámé",
   "Pages": {
     "Show_menu": "Zobrazit menu",
     "Payload_Sender": "Odesílatel zátěže",
@@ -27,8 +26,6 @@
     "Theme": "Motiv",
     "Use_system_theme": "Použít systémový motiv",
     "Dark_Light_mode": "Tmavý/Světlý režim",
-    "Light": "Světlý",
-    "Dark": "Tmavý",
     "Seed_color": "Hlavní barva",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Spuštění prohlížeče: $uri"
   },
   "Errors": {
-    "Error": "Chyba",
-    "Ok": "OK",
-    "Issue_generating_error_message": "Problém při vytváření chybové zprávy",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Neplatný FQDN nebo IP (IPv4 nebo IPv6)",
     "Invalid_port__1_65535_": "Neplatný port (1-65535)",
-    "Invalid_Host_IP": "Neplatný hostitel/IP",
-    "Invalid_Port": "Neplatný port",
-    "Issue_loading_payload_file": "Problém s načítáním souboru zátěže",
     "Connection_timed_out": "Vypršel časový limit připojení",
     "The_remote_computer_refused_the_network_connection": "Vzdálený počítač odmítl síťové připojení",
     "No_route_to_host": "",

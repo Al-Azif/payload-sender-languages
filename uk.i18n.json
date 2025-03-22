@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "НЕВІДОМА ПЛАТФОРМА",
-  "Unknown": "Невідомо",
   "Pages": {
     "Show_menu": "Показати меню",
     "Payload_Sender": "Відправник навантаження",
@@ -27,8 +26,6 @@
     "Theme": "Тема",
     "Use_system_theme": "Використовувати тему системи",
     "Dark_Light_mode": "Темний/Світлий режим",
-    "Light": "Світлий",
-    "Dark": "Темний",
     "Seed_color": "Основний колір",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Запуск браузера: $uri"
   },
   "Errors": {
-    "Error": "Помилка",
-    "Ok": "OK",
-    "Issue_generating_error_message": "Проблема з генерацією повідомлення про помилку",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Недійсний FQDN або IP (IPv4 чи IPv6)",
     "Invalid_port__1_65535_": "Недійсний порт (1-65535)",
-    "Invalid_Host_IP": "Недійсний хост/IP",
-    "Invalid_Port": "Недійсний порт",
-    "Issue_loading_payload_file": "Проблема із завантаженням файлу навантаження",
     "Connection_timed_out": "Час очікування з'єднання вийшов",
     "The_remote_computer_refused_the_network_connection": "Віддалений комп’ютер відхилив мережеве з’єднання",
     "No_route_to_host": "",

@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "UNKNOWN PLATFORM",
-  "Unknown": "Unknown",
   "Pages": {
     "Show_menu": "Show menu",
     "Payload_Sender": "Payload Sender",
@@ -27,8 +26,6 @@
     "Theme": "Theme",
     "Use_system_theme": "Use system theme",
     "Dark_Light_mode": "Dark/Light mode",
-    "Light": "Light",
-    "Dark": "Dark",
     "Seed_color": "Seed color",
     "Select_Color": "Select Color",
     "Select_color_shade": "Select color shade",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Launching browser: $uri"
   },
   "Errors": {
-    "Error": "Error",
-    "Ok": "Ok",
-    "Issue_generating_error_message": "Issue generating error message",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Invalid FQDN or IP (IPv4 or IPv6)",
     "Invalid_port__1_65535_": "Invalid port (1-65535)",
-    "Invalid_Host_IP": "Invalid Host/IP",
-    "Invalid_Port": "Invalid Port",
-    "Issue_loading_payload_file": "Issue loading payload file",
     "Connection_timed_out": "Connection timed out",
     "The_remote_computer_refused_the_network_connection": "The remote computer refused the network connection",
     "No_route_to_host": "No route to host",

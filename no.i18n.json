@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "UKJENT PLATTFORM",
-  "Unknown": "Ukjent",
   "Pages": {
     "Show_menu": "Vis meny",
     "Payload_Sender": "Lastavsender",
@@ -27,8 +26,6 @@
     "Theme": "Tema",
     "Use_system_theme": "Bruk systemtema",
     "Dark_Light_mode": "Mørk/Lys modus",
-    "Light": "Lys",
-    "Dark": "Mørk",
     "Seed_color": "Hovedfarge",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Åpner nettleser: $uri"
   },
   "Errors": {
-    "Error": "Feil",
-    "Ok": "OK",
-    "Issue_generating_error_message": "Problem med å generere feilmelding",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ugyldig FQDN eller IP (IPv4 eller IPv6)",
     "Invalid_port__1_65535_": "Ugyldig port (1-65535)",
-    "Invalid_Host_IP": "Ugyldig vert/IP",
-    "Invalid_Port": "Ugyldig port",
-    "Issue_loading_payload_file": "Problem med å laste inn lastfil",
     "Connection_timed_out": "Tilkoblingen tidsavbrutt",
     "The_remote_computer_refused_the_network_connection": "Den eksterne datamaskinen avslo nettverkstilkoblingen",
     "No_route_to_host": "",

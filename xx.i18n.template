@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "",
-  "Unknown": "",
   "Pages": {
     "Show_menu": "",
     "Payload_Sender": "",
@@ -27,8 +26,6 @@
     "Theme": "",
     "Use_system_theme": "",
     "Dark_Light_mode": "",
-    "Light": "",
-    "Dark": "",
     "Seed_color": "",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": ""
   },
   "Errors": {
-    "Error": "",
-    "Ok": "",
-    "Issue_generating_error_message": "",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "",
     "Invalid_port__1_65535_": "",
-    "Invalid_Host_IP": "",
-    "Invalid_Port": "",
-    "Issue_loading_payload_file": "",
     "Connection_timed_out": "",
     "The_remote_computer_refused_the_network_connection": "",
     "No_route_to_host": "",

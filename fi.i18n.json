@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "TUNTEMATON ALUSTA",
-  "Unknown": "Tuntematon",
   "Pages": {
     "Show_menu": "Näytä valikko",
     "Payload_Sender": "Payload-lähettäjä",
@@ -27,8 +26,6 @@
     "Theme": "Teema",
     "Use_system_theme": "Käytä järjestelmän teemaa",
     "Dark_Light_mode": "Tumma/Vaalea tila",
-    "Light": "Vaalea",
-    "Dark": "Tumma",
     "Seed_color": "Pääväri",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Avaa selain: $uri"
   },
   "Errors": {
-    "Error": "Virhe",
-    "Ok": "OK",
-    "Issue_generating_error_message": "Virhettä ei voitu luoda",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Virheellinen FQDN tai IP (IPv4 tai IPv6)",
     "Invalid_port__1_65535_": "Virheellinen portti (1-65535)",
-    "Invalid_Host_IP": "Virheellinen isäntä/IP",
-    "Invalid_Port": "Virheellinen portti",
-    "Issue_loading_payload_file": "Ongelmia payload-tiedoston lataamisessa",
     "Connection_timed_out": "Yhteys aikakatkaistiin",
     "The_remote_computer_refused_the_network_connection": "Etätietokone hylkäsi verkkoyhteyden",
     "No_route_to_host": "",

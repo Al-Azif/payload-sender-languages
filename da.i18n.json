@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "UKENDT PLATFORM",
-  "Unknown": "Ukendt",
   "Pages": {
     "Show_menu": "Vis menu",
     "Payload_Sender": "Payload-afsender",
@@ -27,8 +26,6 @@
     "Theme": "Tema",
     "Use_system_theme": "Brug systemtema",
     "Dark_Light_mode": "Mørk/Lys tilstand",
-    "Light": "Lys",
-    "Dark": "Mørk",
     "Seed_color": "Grundfarve",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Åbner browser: $uri"
   },
   "Errors": {
-    "Error": "Fejl",
-    "Ok": "OK",
-    "Issue_generating_error_message": "Problem med at generere fejlmeddelelse",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ugyldig FQDN eller IP (IPv4 eller IPv6)",
     "Invalid_port__1_65535_": "Ugyldig port (1-65535)",
-    "Invalid_Host_IP": "Ugyldig værts-IP",
-    "Invalid_Port": "Ugyldig port",
-    "Issue_loading_payload_file": "Problem med at indlæse payload-fil",
     "Connection_timed_out": "Forbindelsen udløb",
     "The_remote_computer_refused_the_network_connection": "Den eksterne computer afviste netværksforbindelsen",
     "No_route_to_host": "",

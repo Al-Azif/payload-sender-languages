@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "UNBEKANNTE PLATTFORM",
-  "Unknown": "Unbekannt",
   "Pages": {
     "Show_menu": "Menü anzeigen",
     "Payload_Sender": "Payload-Sender",
@@ -27,8 +26,6 @@
     "Theme": "Thema",
     "Use_system_theme": "Systemthema verwenden",
     "Dark_Light_mode": "Dunkel/Hell-Modus",
-    "Light": "Hell",
-    "Dark": "Dunkel",
     "Seed_color": "Grundfarbe",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Browser wird gestartet: $uri"
   },
   "Errors": {
-    "Error": "Fehler",
-    "Ok": "OK",
-    "Issue_generating_error_message": "Problem beim Erstellen der Fehlermeldung",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ungültiger FQDN oder IP (IPv4 oder IPv6)",
     "Invalid_port__1_65535_": "Ungültiger Port (1-65535)",
-    "Invalid_Host_IP": "Ungültiger Host/IP",
-    "Invalid_Port": "Ungültiger Port",
-    "Issue_loading_payload_file": "Problem beim Laden der Payload-Datei",
     "Connection_timed_out": "Verbindungszeitüberschreitung",
     "The_remote_computer_refused_the_network_connection": "Der entfernte Computer hat die Netzwerkverbindung abgelehnt",
     "No_route_to_host": "",

@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "未知平台",
-  "Unknown": "未知",
   "Pages": {
     "Show_menu": "显示菜单",
     "Payload_Sender": "负载发送器",
@@ -27,8 +26,6 @@
     "Theme": "主题",
     "Use_system_theme": "使用系统主题",
     "Dark_Light_mode": "深色/浅色模式",
-    "Light": "浅色",
-    "Dark": "深色",
     "Seed_color": "主色调",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "正在启动浏览器: $uri"
   },
   "Errors": {
-    "Error": "错误",
-    "Ok": "确定",
-    "Issue_generating_error_message": "生成错误消息时出现问题",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "无效的 FQDN 或 IP（IPv4 或 IPv6）",
     "Invalid_port__1_65535_": "无效端口（1-65535）",
-    "Invalid_Host_IP": "无效的主机/IP",
-    "Invalid_Port": "无效端口",
-    "Issue_loading_payload_file": "加载负载文件时出现问题",
     "Connection_timed_out": "连接超时",
     "The_remote_computer_refused_the_network_connection": "远程计算机拒绝了网络连接",
     "No_route_to_host": "",

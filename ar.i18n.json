@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "منصة غير معروفة",
-  "Unknown": "غير معروف",
   "Pages": {
     "Show_menu": "عرض القائمة",
     "Payload_Sender": "مرسل الحمولة",
@@ -27,8 +26,6 @@
     "Theme": "السمة",
     "Use_system_theme": "استخدام سمة النظام",
     "Dark_Light_mode": "وضع غامق/فاتح",
-    "Light": "فاتح",
-    "Dark": "غامق",
     "Seed_color": "لون البذرة",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "جارٍ فتح المتصفح: $uri"
   },
   "Errors": {
-    "Error": "خطأ",
-    "Ok": "موافق",
-    "Issue_generating_error_message": "مشكلة في إنشاء رسالة الخطأ",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "اسم مجال مؤهل بالكامل أو عنوان IP غير صالح (IPv4 أو IPv6)",
     "Invalid_port__1_65535_": "منفذ غير صالح (1-65535)",
-    "Invalid_Host_IP": "مضيف/IP غير صالح",
-    "Invalid_Port": "منفذ غير صالح",
-    "Issue_loading_payload_file": "مشكلة في تحميل ملف الحمولة",
     "Connection_timed_out": "انتهت مهلة الاتصال",
     "The_remote_computer_refused_the_network_connection": "رفض الكمبيوتر البعيد الاتصال بالشبكة",
     "No_route_to_host": "",

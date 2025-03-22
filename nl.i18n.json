@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "ONBEKEND PLATFORM",
-  "Unknown": "Onbekend",
   "Pages": {
     "Show_menu": "Menu weergeven",
     "Payload_Sender": "Payload-zender",
@@ -27,8 +26,6 @@
     "Theme": "Thema",
     "Use_system_theme": "Systeemthema gebruiken",
     "Dark_Light_mode": "Donkere/Lichte modus",
-    "Light": "Licht",
-    "Dark": "Donker",
     "Seed_color": "Hoofdkleur",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Browser openen: $uri"
   },
   "Errors": {
-    "Error": "Fout",
-    "Ok": "OK",
-    "Issue_generating_error_message": "Probleem bij het genereren van de foutmelding",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ongeldige FQDN of IP (IPv4 of IPv6)",
     "Invalid_port__1_65535_": "Ongeldige poort (1-65535)",
-    "Invalid_Host_IP": "Ongeldige host/IP",
-    "Invalid_Port": "Ongeldige poort",
-    "Issue_loading_payload_file": "Probleem bij het laden van het payload-bestand",
     "Connection_timed_out": "Verbinding verlopen",
     "The_remote_computer_refused_the_network_connection": "De externe computer weigerde de netwerkverbinding",
     "No_route_to_host": "",

@@ -1,6 +1,5 @@
 {
   "UNKNOWN_PLATFORM": "PLATAFORMA DESCONOCIDA",
-  "Unknown": "Desconocido",
   "Pages": {
     "Show_menu": "Mostrar menú",
     "Payload_Sender": "Remitente de carga útil",
@@ -27,8 +26,6 @@
     "Theme": "Tema",
     "Use_system_theme": "Usar tema del sistema",
     "Dark_Light_mode": "Modo oscuro/claro",
-    "Light": "Claro",
-    "Dark": "Oscuro",
     "Seed_color": "Color principal",
     "Select_Color": "",
     "Select_color_shade": "",
@@ -56,14 +53,8 @@
     "Launching_browser_": "Abriendo navegador: $uri"
   },
   "Errors": {
-    "Error": "Error",
-    "Ok": "Aceptar",
-    "Issue_generating_error_message": "Problema al generar el mensaje de error",
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "FQDN o IP no válido (IPv4 o IPv6)",
     "Invalid_port__1_65535_": "Puerto no válido (1-65535)",
-    "Invalid_Host_IP": "Host/IP no válido",
-    "Invalid_Port": "Puerto no válido",
-    "Issue_loading_payload_file": "Problema al cargar el archivo de carga útil",
     "Connection_timed_out": "Tiempo de conexión agotado",
     "The_remote_computer_refused_the_network_connection": "La computadora remota rechazó la conexión de red",
     "No_route_to_host": "",
