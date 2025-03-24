@@ -20,7 +20,11 @@
   "Debug_Log": {
     "Download_log___": "লগ ডাউনলোড করুন...",
     "Please_select_an_output_file_": "দয়া করে একটি আউটপুট ফাইল নির্বাচন করুন:",
-    "Clear_log": "লগ মুছুন"
+    "Clear_log": "লগ মুছুন",
+    "INFO": "",
+    "WARN": "",
+    "ERROR": "",
+    "PAYLOAD": ""
   },
   "Settings": {
     "Theme": "থিম",
@@ -28,8 +32,12 @@
     "Dark_Light_mode": "ডার্ক/লাইট মোড",
     "Seed_color": "প্রাথমিক রং",
     "Select_Color": "",
+    "Primary": "",
+    "Wheel": "",
     "Select_color_shade": "",
     "Selected_color_and_it_s_shades": "",
+    "Copy": "",
+    "Paste": "",
     "Cancel": "",
     "Ok": "",
     "Network": "নেটওয়ার্ক",

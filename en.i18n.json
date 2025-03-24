@@ -20,7 +20,11 @@
   "Debug_Log": {
     "Download_log___": "Download log...",
     "Please_select_an_output_file_": "Please select an output file:",
-    "Clear_log": "Clear log"
+    "Clear_log": "Clear log",
+    "INFO": "INFO",
+    "WARN": "WARN",
+    "ERROR": "ERROR",
+    "PAYLOAD": "PAYLOAD"
   },
   "Settings": {
     "Theme": "Theme",
@@ -28,8 +32,12 @@
     "Dark_Light_mode": "Dark/Light mode",
     "Seed_color": "Seed color",
     "Select_Color": "Select Color",
+    "Primary": "Primary",
+    "Wheel": "Wheel",
     "Select_color_shade": "Select color shade",
     "Selected_color_and_it_s_shades": "Selected color and it's shades",
+    "Copy": "Copy",
+    "Paste": "Paste",
     "Cancel": "Cancel",
     "Ok": "Ok",
     "Network": "Network",

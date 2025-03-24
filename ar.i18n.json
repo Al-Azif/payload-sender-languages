@@ -20,7 +20,11 @@
   "Debug_Log": {
     "Download_log___": "تنزيل السجل...",
     "Please_select_an_output_file_": "يرجى اختيار ملف الإخراج:",
-    "Clear_log": "مسح السجل"
+    "Clear_log": "مسح السجل",
+    "INFO": "",
+    "WARN": "",
+    "ERROR": "",
+    "PAYLOAD": ""
   },
   "Settings": {
     "Theme": "السمة",
@@ -28,8 +32,12 @@
     "Dark_Light_mode": "وضع غامق/فاتح",
     "Seed_color": "لون البذرة",
     "Select_Color": "",
+    "Primary": "",
+    "Wheel": "",
     "Select_color_shade": "",
     "Selected_color_and_it_s_shades": "",
+    "Copy": "",
+    "Paste": "",
     "Cancel": "",
     "Ok": "",
     "Network": "الشبكة",
