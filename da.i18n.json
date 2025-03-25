@@ -2,11 +2,12 @@
   "UNKNOWN_PLATFORM": "UKENDT PLATFORM",
   "Pages": {
     "Show_menu": "Vis menu",
-    "Payload_Sender": "Payload-afsender",
-    "Debug_Log": "Fejllogningslog",
+    "Payload_Sender": "Payload afsender",
+    "Debug_Log": "Fejlfindingslog",
     "Settings": "Indstillinger",
-    "LanguageSelection": "",
+    "LanguageSelection": "Sprogvalg",
     "About": "Om",
+    "Licenses": "Licenser",
     "Back": "Tilbage"
   },
   "Home": {
@@ -15,31 +16,31 @@
     "Payload_path___": "Payload-sti...",
     "Browse___": "Gennemse...",
     "Send_payload": "Send payload",
-    "Successfully_sent_payload_": ""
+    "Successfully_sent_payload_": "Payload sendt succesfuldt!"
   },
   "Debug_Log": {
     "Download_log___": "Download log...",
     "Please_select_an_output_file_": "Vælg en outputfil:",
     "Clear_log": "Ryd log",
-    "INFO": "",
-    "WARN": "",
-    "ERROR": "",
-    "PAYLOAD": ""
+    "INFO": "INFO",
+    "WARN": "ADVARSEL",
+    "ERROR": "FEJL",
+    "PAYLOAD": "PAYLOAD"
   },
   "Settings": {
     "Theme": "Tema",
     "Use_system_theme": "Brug systemtema",
     "Dark_Light_mode": "Mørk/Lys tilstand",
     "Seed_color": "Grundfarve",
-    "Select_Color": "",
-    "Primary": "",
-    "Wheel": "",
-    "Select_color_shade": "",
-    "Selected_color_and_it_s_shades": "",
-    "Copy": "",
-    "Paste": "",
-    "Cancel": "",
-    "Ok": "",
+    "Select_Color": "Vælg farve",
+    "Primary": "Primær",
+    "Wheel": "Hjul",
+    "Select_color_shade": "Vælg farvenuance",
+    "Selected_color_and_it_s_shades": "Valgt farve og dens nuancer",
+    "Copy": "Kopiér",
+    "Paste": "Indsæt",
+    "Cancel": "Annuller",
+    "Ok": "OK",
     "Network": "Netværk",
     "Socket_timeout": "Socket-timeout",
     "seconds": "$time sekunder",
@@ -56,21 +57,23 @@
     "Author": "Forfatter",
     "Not_Set": "Ikke angivet",
     "App_version": "App-version",
-    "Build_number": "Bygningsnummer",
+    "Build_number": "Byggenummer",
+    "Licenses": "Licenser",
+    "Click_Here": "Klik her",
     "GitHub_Sponsors": "GitHub-sponsorer",
-    "Launching_browser_": "Åbner browser: $uri"
+    "Launching_browser_": "Starter browser: $uri"
   },
   "Errors": {
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ugyldig FQDN eller IP (IPv4 eller IPv6)",
     "Invalid_port__1_65535_": "Ugyldig port (1-65535)",
-    "Connection_timed_out": "Forbindelsen udløb",
+    "Connection_timed_out": "Forbindelsen timede ud",
     "The_remote_computer_refused_the_network_connection": "Den eksterne computer afviste netværksforbindelsen",
-    "No_route_to_host": "",
+    "No_route_to_host": "Ingen rute til værten",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload er for stor til at passe i en enkelt UDP-datasektion",
-    "Unknown_socket_error": "",
+    "Unknown_socket_error": "Ukendt socket-fejl",
     "Unknown_error": "Ukendt fejl",
-    "Debug_log_is_empty": "Fejllogningsloggen er tom",
-    "Issue_formatting_URL": "Problem med formatering af URL",
+    "Debug_log_is_empty": "Fejlfindingsloggen er tom",
+    "Issue_formatting_URL": "Problem med at formatere URL",
     "Could_not_launch_URL": "Kunne ikke starte URL"
   }
 }

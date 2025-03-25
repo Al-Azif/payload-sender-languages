@@ -5,8 +5,9 @@
     "Payload_Sender": "Payload-avsändare",
     "Debug_Log": "Felsökningslogg",
     "Settings": "Inställningar",
-    "LanguageSelection": "",
+    "LanguageSelection": "Språkval",
     "About": "Om",
+    "Licenses": "Licenser",
     "Back": "Tillbaka"
   },
   "Home": {
@@ -15,31 +16,31 @@
     "Payload_path___": "Sökväg till payload...",
     "Browse___": "Bläddra...",
     "Send_payload": "Skicka payload",
-    "Successfully_sent_payload_": ""
+    "Successfully_sent_payload_": "Payload skickades framgångsrikt!"
   },
   "Debug_Log": {
     "Download_log___": "Ladda ner logg...",
-    "Please_select_an_output_file_": "Välj en utdatafil:",
+    "Please_select_an_output_file_": "Vänligen välj en utdatafil:",
     "Clear_log": "Rensa logg",
-    "INFO": "",
-    "WARN": "",
-    "ERROR": "",
-    "PAYLOAD": ""
+    "INFO": "INFO",
+    "WARN": "VARNING",
+    "ERROR": "FEL",
+    "PAYLOAD": "PAYLOAD"
   },
   "Settings": {
     "Theme": "Tema",
     "Use_system_theme": "Använd systemtema",
     "Dark_Light_mode": "Mörkt/Ljust läge",
     "Seed_color": "Grundfärg",
-    "Select_Color": "",
-    "Primary": "",
-    "Wheel": "",
-    "Select_color_shade": "",
-    "Selected_color_and_it_s_shades": "",
-    "Copy": "",
-    "Paste": "",
-    "Cancel": "",
-    "Ok": "",
+    "Select_Color": "Välj färg",
+    "Primary": "Primär",
+    "Wheel": "Hjul",
+    "Select_color_shade": "Välj färgton",
+    "Selected_color_and_it_s_shades": "Vald färg och dess nyanser",
+    "Copy": "Kopiera",
+    "Paste": "Klistra in",
+    "Cancel": "Avbryt",
+    "Ok": "OK",
     "Network": "Nätverk",
     "Socket_timeout": "Socket-timeout",
     "seconds": "$time sekunder",
@@ -54,9 +55,11 @@
   },
   "About": {
     "Author": "Författare",
-    "Not_Set": "Inte angivet",
+    "Not_Set": "Ej angivet",
     "App_version": "Appversion",
-    "Build_number": "Versionsnummer",
+    "Build_number": "Byggnummer",
+    "Licenses": "Licenser",
+    "Click_Here": "Klicka här",
     "GitHub_Sponsors": "GitHub-sponsorer",
     "Launching_browser_": "Startar webbläsare: $uri"
   },
@@ -65,12 +68,12 @@
     "Invalid_port__1_65535_": "Ogiltig port (1-65535)",
     "Connection_timed_out": "Anslutningen tog för lång tid",
     "The_remote_computer_refused_the_network_connection": "Den externa datorn avvisade nätverksanslutningen",
-    "No_route_to_host": "",
+    "No_route_to_host": "Ingen väg till värden",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload är för stor för att få plats i en enda UDP-datasektion",
-    "Unknown_socket_error": "",
+    "Unknown_socket_error": "Okänt socketfel",
     "Unknown_error": "Okänt fel",
     "Debug_log_is_empty": "Felsökningsloggen är tom",
-    "Issue_formatting_URL": "Problem vid formatering av URL",
+    "Issue_formatting_URL": "Problem med att formatera URL",
     "Could_not_launch_URL": "Kunde inte öppna URL"
   }
 }

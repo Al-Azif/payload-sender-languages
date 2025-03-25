@@ -1,0 +1,79 @@
+{
+  "UNKNOWN_PLATFORM": "PLATFORM TIDAK DIKETAHUI",
+  "Pages": {
+    "Show_menu": "Tampilkan menu",
+    "Payload_Sender": "Pengirim Payload",
+    "Debug_Log": "Log Debug",
+    "Settings": "Pengaturan",
+    "LanguageSelection": "Pemilihan Bahasa",
+    "About": "Tentang",
+    "Licenses": "Lisensi",
+    "Back": "Kembali"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "IP/Nama Host/Domain",
+    "Port": "Port",
+    "Payload_path___": "Jalur payload...",
+    "Browse___": "Jelajahi...",
+    "Send_payload": "Kirim payload",
+    "Successfully_sent_payload_": "Payload berhasil dikirim!"
+  },
+  "Debug_Log": {
+    "Download_log___": "Unduh log...",
+    "Please_select_an_output_file_": "Silakan pilih file output:",
+    "Clear_log": "Hapus log",
+    "INFO": "INFO",
+    "WARN": "PERINGATAN",
+    "ERROR": "KESALAHAN",
+    "PAYLOAD": "PAYLOAD"
+  },
+  "Settings": {
+    "Theme": "Tema",
+    "Use_system_theme": "Gunakan tema sistem",
+    "Dark_Light_mode": "Mode Gelap/Terang",
+    "Seed_color": "Warna dasar",
+    "Select_Color": "Pilih warna",
+    "Primary": "Primer",
+    "Wheel": "Roda",
+    "Select_color_shade": "Pilih gradasi warna",
+    "Selected_color_and_it_s_shades": "Warna yang dipilih dan gradasinya",
+    "Copy": "Salin",
+    "Paste": "Tempel",
+    "Cancel": "Batal",
+    "Ok": "OK",
+    "Network": "Jaringan",
+    "Socket_timeout": "Waktu tunggu soket",
+    "seconds": "$time detik",
+    "Select_Socket_Timeout": "Pilih waktu tunggu soket",
+    "Confirm": "Konfirmasi",
+    "Protocol": "Protokol",
+    "TCP": "TCP:",
+    "UDP": "UDP:",
+    "Other": "Lainnya",
+    "Language": "Bahasa",
+    "Reset_all_persistent_data": "Atur ulang semua data permanen"
+  },
+  "About": {
+    "Author": "Penulis",
+    "Not_Set": "Belum Ditetapkan",
+    "App_version": "Versi Aplikasi",
+    "Build_number": "Nomor Build",
+    "Licenses": "Lisensi",
+    "Click_Here": "Klik di sini",
+    "GitHub_Sponsors": "Sponsor GitHub",
+    "Launching_browser_": "Meluncurkan browser: $uri"
+  },
+  "Errors": {
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "FQDN atau IP tidak valid (IPv4 atau IPv6)",
+    "Invalid_port__1_65535_": "Port tidak valid (1-65535)",
+    "Connection_timed_out": "Koneksi habis waktu",
+    "The_remote_computer_refused_the_network_connection": "Komputer jarak jauh menolak koneksi jaringan",
+    "No_route_to_host": "Tidak ada rute ke host",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload terlalu besar untuk dimasukkan ke dalam satu bagian data UDP",
+    "Unknown_socket_error": "Kesalahan soket tidak diketahui",
+    "Unknown_error": "Kesalahan tidak diketahui",
+    "Debug_log_is_empty": "Log debug kosong",
+    "Issue_formatting_URL": "Masalah dalam memformat URL",
+    "Could_not_launch_URL": "Tidak dapat membuka URL"
+  }
+}

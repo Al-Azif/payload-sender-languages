@@ -2,11 +2,12 @@
   "UNKNOWN_PLATFORM": "不明なプラットフォーム",
   "Pages": {
     "Show_menu": "メニューを表示",
-    "Payload_Sender": "ペイロード送信",
+    "Payload_Sender": "ペイロード送信者",
     "Debug_Log": "デバッグログ",
     "Settings": "設定",
-    "LanguageSelection": "",
-    "About": "概要",
+    "LanguageSelection": "言語選択",
+    "About": "アプリについて",
+    "Licenses": "ライセンス",
     "Back": "戻る"
   },
   "Home": {
@@ -15,35 +16,35 @@
     "Payload_path___": "ペイロードのパス...",
     "Browse___": "参照...",
     "Send_payload": "ペイロードを送信",
-    "Successfully_sent_payload_": ""
+    "Successfully_sent_payload_": "ペイロードの送信に成功しました！"
   },
   "Debug_Log": {
     "Download_log___": "ログをダウンロード...",
     "Please_select_an_output_file_": "出力ファイルを選択してください:",
     "Clear_log": "ログをクリア",
-    "INFO": "",
-    "WARN": "",
-    "ERROR": "",
-    "PAYLOAD": ""
+    "INFO": "情報",
+    "WARN": "警告",
+    "ERROR": "エラー",
+    "PAYLOAD": "ペイロード"
   },
   "Settings": {
     "Theme": "テーマ",
     "Use_system_theme": "システムのテーマを使用",
     "Dark_Light_mode": "ダーク/ライトモード",
-    "Seed_color": "基本色",
-    "Select_Color": "",
-    "Primary": "",
-    "Wheel": "",
-    "Select_color_shade": "",
-    "Selected_color_and_it_s_shades": "",
-    "Copy": "",
-    "Paste": "",
-    "Cancel": "",
-    "Ok": "",
+    "Seed_color": "基準色",
+    "Select_Color": "色を選択",
+    "Primary": "主要",
+    "Wheel": "ホイール",
+    "Select_color_shade": "色の濃淡を選択",
+    "Selected_color_and_it_s_shades": "選択した色とその濃淡",
+    "Copy": "コピー",
+    "Paste": "貼り付け",
+    "Cancel": "キャンセル",
+    "Ok": "OK",
     "Network": "ネットワーク",
-    "Socket_timeout": "ソケットタイムアウト",
+    "Socket_timeout": "ソケットのタイムアウト",
     "seconds": "$time 秒",
-    "Select_Socket_Timeout": "ソケットタイムアウトを選択",
+    "Select_Socket_Timeout": "ソケットのタイムアウトを選択",
     "Confirm": "確認",
     "Protocol": "プロトコル",
     "TCP": "TCP:",
@@ -57,20 +58,22 @@
     "Not_Set": "未設定",
     "App_version": "アプリのバージョン",
     "Build_number": "ビルド番号",
+    "Licenses": "ライセンス",
+    "Click_Here": "ここをクリック",
     "GitHub_Sponsors": "GitHub スポンサー",
-    "Launching_browser_": "ブラウザを起動: $uri"
+    "Launching_browser_": "ブラウザを起動中: $uri"
   },
   "Errors": {
-    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "無効な FQDN または IP (IPv4 または IPv6)",
-    "Invalid_port__1_65535_": "無効なポート (1-65535)",
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "無効な FQDN または IP（IPv4 または IPv6）",
+    "Invalid_port__1_65535_": "無効なポート（1-65535）",
     "Connection_timed_out": "接続がタイムアウトしました",
     "The_remote_computer_refused_the_network_connection": "リモートコンピュータがネットワーク接続を拒否しました",
-    "No_route_to_host": "",
+    "No_route_to_host": "ホストへのルートがありません",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "ペイロードが大きすぎて単一の UDP データセクションに収まりません",
-    "Unknown_socket_error": "",
+    "Unknown_socket_error": "不明なソケットエラー",
     "Unknown_error": "不明なエラー",
     "Debug_log_is_empty": "デバッグログが空です",
-    "Issue_formatting_URL": "URL のフォーマットに問題が発生しました",
-    "Could_not_launch_URL": "URL を開くことができませんでした"
+    "Issue_formatting_URL": "URL のフォーマットに問題があります",
+    "Could_not_launch_URL": "URL を開けませんでした"
   }
 }

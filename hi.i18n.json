@@ -1,0 +1,79 @@
+{
+  "UNKNOWN_PLATFORM": "अज्ञात प्लेटफॉर्म",
+  "Pages": {
+    "Show_menu": "मेनू दिखाएं",
+    "Payload_Sender": "पेलोड प्रेषक",
+    "Debug_Log": "डीबग लॉग",
+    "Settings": "सेटिंग्स",
+    "LanguageSelection": "भाषा चयन",
+    "About": "के बारे में",
+    "Licenses": "लाइसेंस",
+    "Back": "वापस"
+  },
+  "Home": {
+    "IP_Hostname_Domain": "आईपी/होस्टनाम/डोमेन",
+    "Port": "पोर्ट",
+    "Payload_path___": "पेलोड पथ...",
+    "Browse___": "ब्राउज़ करें...",
+    "Send_payload": "पेलोड भेजें",
+    "Successfully_sent_payload_": "पेलोड सफलतापूर्वक भेजा गया!"
+  },
+  "Debug_Log": {
+    "Download_log___": "लॉग डाउनलोड करें...",
+    "Please_select_an_output_file_": "कृपया एक आउटपुट फ़ाइल चुनें:",
+    "Clear_log": "लॉग साफ़ करें",
+    "INFO": "जानकारी",
+    "WARN": "चेतावनी",
+    "ERROR": "त्रुटि",
+    "PAYLOAD": "पेलोड"
+  },
+  "Settings": {
+    "Theme": "थीम",
+    "Use_system_theme": "सिस्टम थीम का उपयोग करें",
+    "Dark_Light_mode": "डार्क/लाइट मोड",
+    "Seed_color": "मुख्य रंग",
+    "Select_Color": "रंग चुनें",
+    "Primary": "प्राथमिक",
+    "Wheel": "पहिया",
+    "Select_color_shade": "रंग की छाया चुनें",
+    "Selected_color_and_it_s_shades": "चयनित रंग और उसकी छायाएँ",
+    "Copy": "कॉपी करें",
+    "Paste": "पेस्ट करें",
+    "Cancel": "रद्द करें",
+    "Ok": "ठीक है",
+    "Network": "नेटवर्क",
+    "Socket_timeout": "सॉकेट टाइमआउट",
+    "seconds": "$time सेकंड",
+    "Select_Socket_Timeout": "सॉकेट टाइमआउट चुनें",
+    "Confirm": "पुष्टि करें",
+    "Protocol": "प्रोटोकॉल",
+    "TCP": "टीसीपी:",
+    "UDP": "यूडीपी:",
+    "Other": "अन्य",
+    "Language": "भाषा",
+    "Reset_all_persistent_data": "सभी स्थायी डेटा रीसेट करें"
+  },
+  "About": {
+    "Author": "लेखक",
+    "Not_Set": "सेट नहीं किया गया",
+    "App_version": "ऐप संस्करण",
+    "Build_number": "बिल्ड नंबर",
+    "Licenses": "लाइसेंस",
+    "Click_Here": "यहाँ क्लिक करें",
+    "GitHub_Sponsors": "गिटहब प्रायोजक",
+    "Launching_browser_": "ब्राउज़र लॉन्च किया जा रहा है: $uri"
+  },
+  "Errors": {
+    "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "अमान्य FQDN या IP (IPv4 या IPv6)",
+    "Invalid_port__1_65535_": "अमान्य पोर्ट (1-65535)",
+    "Connection_timed_out": "कनेक्शन का समय समाप्त",
+    "The_remote_computer_refused_the_network_connection": "रिमोट कंप्यूटर ने नेटवर्क कनेक्शन अस्वीकार कर दिया",
+    "No_route_to_host": "होस्ट तक कोई मार्ग नहीं",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "पेलोड बहुत बड़ा है और एकल UDP डेटा अनुभाग में फिट नहीं हो सकता",
+    "Unknown_socket_error": "अज्ञात सॉकेट त्रुटि",
+    "Unknown_error": "अज्ञात त्रुटि",
+    "Debug_log_is_empty": "डीबग लॉग खाली है",
+    "Issue_formatting_URL": "यूआरएल प्रारूपित करने में समस्या",
+    "Could_not_launch_URL": "यूआरएल लॉन्च नहीं किया जा सका"
+  }
+}

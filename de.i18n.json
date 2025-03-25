@@ -5,8 +5,9 @@
     "Payload_Sender": "Payload-Sender",
     "Debug_Log": "Debug-Protokoll",
     "Settings": "Einstellungen",
-    "LanguageSelection": "",
+    "LanguageSelection": "Sprachauswahl",
     "About": "Über",
+    "Licenses": "Lizenzen",
     "Back": "Zurück"
   },
   "Home": {
@@ -15,31 +16,31 @@
     "Payload_path___": "Payload-Pfad...",
     "Browse___": "Durchsuchen...",
     "Send_payload": "Payload senden",
-    "Successfully_sent_payload_": ""
+    "Successfully_sent_payload_": "Payload erfolgreich gesendet!"
   },
   "Debug_Log": {
     "Download_log___": "Protokoll herunterladen...",
-    "Please_select_an_output_file_": "Bitte eine Ausgabedatei auswählen:",
+    "Please_select_an_output_file_": "Bitte wählen Sie eine Ausgabedatei:",
     "Clear_log": "Protokoll löschen",
-    "INFO": "",
-    "WARN": "",
-    "ERROR": "",
-    "PAYLOAD": ""
+    "INFO": "INFO",
+    "WARN": "WARNUNG",
+    "ERROR": "FEHLER",
+    "PAYLOAD": "PAYLOAD"
   },
   "Settings": {
-    "Theme": "Thema",
-    "Use_system_theme": "Systemthema verwenden",
-    "Dark_Light_mode": "Dunkel/Hell-Modus",
+    "Theme": "Design",
+    "Use_system_theme": "Systemdesign verwenden",
+    "Dark_Light_mode": "Dunkel-/Hellmodus",
     "Seed_color": "Grundfarbe",
-    "Select_Color": "",
-    "Primary": "",
-    "Wheel": "",
-    "Select_color_shade": "",
-    "Selected_color_and_it_s_shades": "",
-    "Copy": "",
-    "Paste": "",
-    "Cancel": "",
-    "Ok": "",
+    "Select_Color": "Farbe auswählen",
+    "Primary": "Primär",
+    "Wheel": "Rad",
+    "Select_color_shade": "Farbton auswählen",
+    "Selected_color_and_it_s_shades": "Ausgewählte Farbe und ihre Farbtöne",
+    "Copy": "Kopieren",
+    "Paste": "Einfügen",
+    "Cancel": "Abbrechen",
+    "Ok": "OK",
     "Network": "Netzwerk",
     "Socket_timeout": "Socket-Zeitüberschreitung",
     "seconds": "$time Sekunden",
@@ -50,13 +51,15 @@
     "UDP": "UDP:",
     "Other": "Andere",
     "Language": "Sprache",
-    "Reset_all_persistent_data": "Alle gespeicherten Daten zurücksetzen"
+    "Reset_all_persistent_data": "Alle permanenten Daten zurücksetzen"
   },
   "About": {
     "Author": "Autor",
     "Not_Set": "Nicht festgelegt",
     "App_version": "App-Version",
     "Build_number": "Build-Nummer",
+    "Licenses": "Lizenzen",
+    "Click_Here": "Hier klicken",
     "GitHub_Sponsors": "GitHub-Sponsoren",
     "Launching_browser_": "Browser wird gestartet: $uri"
   },
@@ -65,12 +68,12 @@
     "Invalid_port__1_65535_": "Ungültiger Port (1-65535)",
     "Connection_timed_out": "Verbindungszeitüberschreitung",
     "The_remote_computer_refused_the_network_connection": "Der entfernte Computer hat die Netzwerkverbindung abgelehnt",
-    "No_route_to_host": "",
+    "No_route_to_host": "Keine Route zum Host",
     "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload ist zu groß für eine einzelne UDP-Datensektion",
-    "Unknown_socket_error": "",
+    "Unknown_socket_error": "Unbekannter Socket-Fehler",
     "Unknown_error": "Unbekannter Fehler",
     "Debug_log_is_empty": "Debug-Protokoll ist leer",
-    "Issue_formatting_URL": "Problem bei der Formatierung der URL",
+    "Issue_formatting_URL": "Problem beim Formatieren der URL",
     "Could_not_launch_URL": "URL konnte nicht gestartet werden"
   }
 }

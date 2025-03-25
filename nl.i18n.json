@@ -1,45 +1,46 @@
 {
-  "UNKNOWN_PLATFORM": "ONBEKEND PLATFORM",
+  "UNKNOWN_PLATFORM": "ONBEKENDE PLATFORM",
   "Pages": {
     "Show_menu": "Menu weergeven",
     "Payload_Sender": "Payload-zender",
-    "Debug_Log": "Debuglogboek",
+    "Debug_Log": "Debug-logboek",
     "Settings": "Instellingen",
-    "LanguageSelection": "",
+    "LanguageSelection": "Taalkeuze",
     "About": "Over",
+    "Licenses": "Licenties",
     "Back": "Terug"
   },
   "Home": {
     "IP_Hostname_Domain": "IP/Hostnaam/Domein",
     "Port": "Poort",
-    "Payload_path___": "Pad naar payload...",
+    "Payload_path___": "Payload-pad...",
     "Browse___": "Bladeren...",
     "Send_payload": "Payload verzenden",
-    "Successfully_sent_payload_": ""
+    "Successfully_sent_payload_": "Payload succesvol verzonden!"
   },
   "Debug_Log": {
     "Download_log___": "Logboek downloaden...",
     "Please_select_an_output_file_": "Selecteer een uitvoerbestand:",
     "Clear_log": "Logboek wissen",
-    "INFO": "",
-    "WARN": "",
-    "ERROR": "",
-    "PAYLOAD": ""
+    "INFO": "INFORMATIE",
+    "WARN": "WAARSCHUWING",
+    "ERROR": "FOUT",
+    "PAYLOAD": "PAYLOAD"
   },
   "Settings": {
     "Theme": "Thema",
     "Use_system_theme": "Systeemthema gebruiken",
     "Dark_Light_mode": "Donkere/Lichte modus",
-    "Seed_color": "Hoofdkleur",
-    "Select_Color": "",
-    "Primary": "",
-    "Wheel": "",
-    "Select_color_shade": "",
-    "Selected_color_and_it_s_shades": "",
-    "Copy": "",
-    "Paste": "",
-    "Cancel": "",
-    "Ok": "",
+    "Seed_color": "Basiskleur",
+    "Select_Color": "Kleur selecteren",
+    "Primary": "Primair",
+    "Wheel": "Wiel",
+    "Select_color_shade": "Kleurtoon selecteren",
+    "Selected_color_and_it_s_shades": "Geselecteerde kleur en tinten",
+    "Copy": "Kopiëren",
+    "Paste": "Plakken",
+    "Cancel": "Annuleren",
+    "Ok": "OK",
     "Network": "Netwerk",
     "Socket_timeout": "Socket-time-out",
     "seconds": "$time seconden",
@@ -57,20 +58,22 @@
     "Not_Set": "Niet ingesteld",
     "App_version": "App-versie",
     "Build_number": "Buildnummer",
+    "Licenses": "Licenties",
+    "Click_Here": "Klik hier",
     "GitHub_Sponsors": "GitHub-sponsors",
-    "Launching_browser_": "Browser openen: $uri"
+    "Launching_browser_": "Browser starten: $uri"
   },
   "Errors": {
     "Invalid_FQDN_or_IP__IPv4_or_IPv6_": "Ongeldige FQDN of IP (IPv4 of IPv6)",
     "Invalid_port__1_65535_": "Ongeldige poort (1-65535)",
-    "Connection_timed_out": "Verbinding verlopen",
-    "The_remote_computer_refused_the_network_connection": "De externe computer weigerde de netwerkverbinding",
-    "No_route_to_host": "",
-    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "De payload is te groot om in één UDP-gegevenssectie te passen",
-    "Unknown_socket_error": "",
+    "Connection_timed_out": "Verbindingstijd verstreken",
+    "The_remote_computer_refused_the_network_connection": "De externe computer heeft de netwerkverbinding geweigerd",
+    "No_route_to_host": "Geen route naar host",
+    "Payload_too_large_to_fit_into_a_single_UDP_data_section": "Payload is te groot om in één UDP-gegevenssectie te passen",
+    "Unknown_socket_error": "Onbekende socketfout",
     "Unknown_error": "Onbekende fout",
-    "Debug_log_is_empty": "Het debuglogboek is leeg",
-    "Issue_formatting_URL": "Probleem met het opmaken van de URL",
-    "Could_not_launch_URL": "Kon de URL niet openen"
+    "Debug_log_is_empty": "Debug-logboek is leeg",
+    "Issue_formatting_URL": "Probleem met URL-opmaak",
+    "Could_not_launch_URL": "Kon URL niet starten"
   }
 }
