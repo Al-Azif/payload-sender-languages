@@ -5,7 +5,8 @@
     "Payload_Sender": "Odesílač užitečného zatížení",
     "Debug_Log": "Ladicí protokol",
     "Settings": "Nastavení",
-    "LanguageSelection": "Výběr jazyka",
+    "UI_Selection": "Výběr UI",
+    "Language_Selection": "Výběr jazyka",
     "About": "O aplikaci",
     "Licenses": "Licence",
     "Back": "Zpět"
@@ -41,6 +42,7 @@
     "Paste": "Vložit",
     "Cancel": "Zrušit",
     "Ok": "OK",
+    "Alternate_UI": "Alternativní UI",
     "Network": "Síť",
     "Socket_timeout": "Časový limit socketu",
     "seconds": "$time sekund",

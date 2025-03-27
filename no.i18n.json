@@ -5,7 +5,8 @@
     "Payload_Sender": "Payload-avsender",
     "Debug_Log": "Feilsøkingslogg",
     "Settings": "Innstillinger",
-    "LanguageSelection": "Språkvalg",
+    "UI_Selection": "UI-valg",
+    "Language_Selection": "Språkvalg",
     "About": "Om",
     "Licenses": "Lisenser",
     "Back": "Tilbake"
@@ -41,6 +42,7 @@
     "Paste": "Lim inn",
     "Cancel": "Avbryt",
     "Ok": "OK",
+    "Alternate_UI": "Alternativ UI",
     "Network": "Nettverk",
     "Socket_timeout": "Tidsavbrudd for socket",
     "seconds": "$time sekunder",

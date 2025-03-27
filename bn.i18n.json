@@ -5,7 +5,8 @@
     "Payload_Sender": "পেলোড প্রেরক",
     "Debug_Log": "ডিবাগ লগ",
     "Settings": "সেটিংস",
-    "LanguageSelection": "ভাষা নির্বাচন",
+    "UI_Selection": "ইউআই নির্বাচন",
+    "Language_Selection": "ভাষা নির্বাচন",
     "About": "সম্পর্কিত",
     "Licenses": "লাইসেন্স",
     "Back": "ফিরে যান"
@@ -41,6 +42,7 @@
     "Paste": "পেস্ট",
     "Cancel": "বাতিল করুন",
     "Ok": "ওকে",
+    "Alternate_UI": "বিকল্প ইউআই",
     "Network": "নেটওয়ার্ক",
     "Socket_timeout": "সকেট টাইমআউট",
     "seconds": "$time সেকেন্ড",

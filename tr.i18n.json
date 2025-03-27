@@ -5,7 +5,8 @@
     "Payload_Sender": "Yük Gönderici",
     "Debug_Log": "Hata Ayıklama Günlüğü",
     "Settings": "Ayarlar",
-    "LanguageSelection": "Dil Seçimi",
+    "UI_Selection": "UI Seçimi",
+    "Language_Selection": "Dil Seçimi",
     "About": "Hakkında",
     "Licenses": "Lisanslar",
     "Back": "Geri"
@@ -41,6 +42,7 @@
     "Paste": "Yapıştır",
     "Cancel": "İptal",
     "Ok": "Tamam",
+    "Alternate_UI": "Alternatif UI",
     "Network": "Ağ",
     "Socket_timeout": "Soket zaman aşımı",
     "seconds": "$time saniye",

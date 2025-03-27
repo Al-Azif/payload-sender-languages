@@ -5,7 +5,8 @@
     "Payload_Sender": "Payload Sender",
     "Debug_Log": "Debug Log",
     "Settings": "Settings",
-    "LanguageSelection": "Language Selection",
+    "UI_Selection": "UI Selection",
+    "Language_Selection": "Language Selection",
     "About": "About",
     "Licenses": "Licenses",
     "Back": "Back"
@@ -41,6 +42,7 @@
     "Paste": "Paste",
     "Cancel": "Cancel",
     "Ok": "Ok",
+    "Alternate_UI": "Alternate UI",
     "Network": "Network",
     "Socket_timeout": "Socket timeout",
     "seconds": "$time seconds",

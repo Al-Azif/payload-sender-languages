@@ -5,7 +5,8 @@
     "Payload_Sender": "Remetente da carga útil",
     "Debug_Log": "Registo de depuração",
     "Settings": "Definições",
-    "LanguageSelection": "Seleção de idioma",
+    "UI_Selection": "Seleção de UI",
+    "Language_Selection": "Seleção de idioma",
     "About": "Sobre",
     "Licenses": "Licenças",
     "Back": "Voltar"
@@ -41,6 +42,7 @@
     "Paste": "Colar",
     "Cancel": "Cancelar",
     "Ok": "OK",
+    "Alternate_UI": "UI Alternativa",
     "Network": "Rede",
     "Socket_timeout": "Tempo limite do socket",
     "seconds": "$time segundos",

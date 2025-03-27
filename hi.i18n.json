@@ -5,7 +5,8 @@
     "Payload_Sender": "पेलोड प्रेषक",
     "Debug_Log": "डीबग लॉग",
     "Settings": "सेटिंग्स",
-    "LanguageSelection": "भाषा चयन",
+    "UI_Selection": "यूआई चयन",
+    "Language_Selection": "भाषा चयन",
     "About": "के बारे में",
     "Licenses": "लाइसेंस",
     "Back": "वापस"
@@ -41,6 +42,7 @@
     "Paste": "पेस्ट करें",
     "Cancel": "रद्द करें",
     "Ok": "ठीक है",
+    "Alternate_UI": "वैकल्पिक यूआई",
     "Network": "नेटवर्क",
     "Socket_timeout": "सॉकेट टाइमआउट",
     "seconds": "$time सेकंड",

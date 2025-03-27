@@ -5,7 +5,8 @@
     "Payload_Sender": "Pengirim Payload",
     "Debug_Log": "Log Debug",
     "Settings": "Pengaturan",
-    "LanguageSelection": "Pemilihan Bahasa",
+    "UI_Selection": "Pemilihan UI",
+    "Language_Selection": "Pemilihan Bahasa",
     "About": "Tentang",
     "Licenses": "Lisensi",
     "Back": "Kembali"
@@ -41,6 +42,7 @@
     "Paste": "Tempel",
     "Cancel": "Batal",
     "Ok": "OK",
+    "Alternate_UI": "UI Alternatif",
     "Network": "Jaringan",
     "Socket_timeout": "Waktu tunggu soket",
     "seconds": "$time detik",

@@ -5,7 +5,8 @@
     "Payload_Sender": "Mittente del payload",
     "Debug_Log": "Registro di debug",
     "Settings": "Impostazioni",
-    "LanguageSelection": "Selezione della lingua",
+    "UI_Selection": "Selezione UI",
+    "Language_Selection": "Selezione della lingua",
     "About": "Informazioni",
     "Licenses": "Licenze",
     "Back": "Indietro"
@@ -41,6 +42,7 @@
     "Paste": "Incolla",
     "Cancel": "Annulla",
     "Ok": "OK",
+    "Alternate_UI": "UI Alternativa",
     "Network": "Rete",
     "Socket_timeout": "Timeout del socket",
     "seconds": "$time secondi",

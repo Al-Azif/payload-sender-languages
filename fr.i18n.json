@@ -5,7 +5,8 @@
     "Payload_Sender": "Expéditeur de charge utile",
     "Debug_Log": "Journal de débogage",
     "Settings": "Paramètres",
-    "LanguageSelection": "Sélection de la langue",
+    "UI_Selection": "Sélection de l'UI",
+    "Language_Selection": "Sélection de la langue",
     "About": "À propos",
     "Licenses": "Licences",
     "Back": "Retour"
@@ -41,6 +42,7 @@
     "Paste": "Coller",
     "Cancel": "Annuler",
     "Ok": "OK",
+    "Alternate_UI": "UI alternative",
     "Network": "Réseau",
     "Socket_timeout": "Délai d'attente du socket",
     "seconds": "$time secondes",

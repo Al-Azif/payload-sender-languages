@@ -5,7 +5,8 @@
     "Payload_Sender": "Nadawca ładunku",
     "Debug_Log": "Dziennik debugowania",
     "Settings": "Ustawienia",
-    "LanguageSelection": "Wybór języka",
+    "UI_Selection": "Wybór UI",
+    "Language_Selection": "Wybór języka",
     "About": "O aplikacji",
     "Licenses": "Licencje",
     "Back": "Wstecz"
@@ -41,6 +42,7 @@
     "Paste": "Wklej",
     "Cancel": "Anuluj",
     "Ok": "OK",
+    "Alternate_UI": "Alternatywny UI",
     "Network": "Sieć",
     "Socket_timeout": "Limit czasu gniazda",
     "seconds": "$time sekund",

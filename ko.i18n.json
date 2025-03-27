@@ -5,7 +5,8 @@
     "Payload_Sender": "페이로드 전송기",
     "Debug_Log": "디버그 로그",
     "Settings": "설정",
-    "LanguageSelection": "언어 선택",
+    "UI_Selection": "UI 선택",
+    "Language_Selection": "언어 선택",
     "About": "정보",
     "Licenses": "라이선스",
     "Back": "뒤로"
@@ -41,6 +42,7 @@
     "Paste": "붙여넣기",
     "Cancel": "취소",
     "Ok": "확인",
+    "Alternate_UI": "대체 UI",
     "Network": "네트워크",
     "Socket_timeout": "소켓 시간 초과",
     "seconds": "$time 초",

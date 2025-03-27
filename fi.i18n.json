@@ -5,7 +5,8 @@
     "Payload_Sender": "Lähettäjä",
     "Debug_Log": "Vianmääritysloki",
     "Settings": "Asetukset",
-    "LanguageSelection": "Kielen valinta",
+    "UI_Selection": "UI-valinta",
+    "Language_Selection": "Kielen valinta",
     "About": "Tietoa",
     "Licenses": "Lisenssit",
     "Back": "Takaisin"
@@ -41,6 +42,7 @@
     "Paste": "Liitä",
     "Cancel": "Peruuta",
     "Ok": "OK",
+    "Alternate_UI": "Vaihtoehtoinen UI",
     "Network": "Verkko",
     "Socket_timeout": "Pistokkeen aikakatkaisu",
     "seconds": "$time sekuntia",

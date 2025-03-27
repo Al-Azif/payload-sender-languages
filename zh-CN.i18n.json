@@ -5,7 +5,8 @@
     "Payload_Sender": "负载发送器",
     "Debug_Log": "调试日志",
     "Settings": "设置",
-    "LanguageSelection": "语言选择",
+    "UI_Selection": "UI 选择",
+    "Language_Selection": "语言选择",
     "About": "关于",
     "Licenses": "许可证",
     "Back": "返回"
@@ -41,6 +42,7 @@
     "Paste": "粘贴",
     "Cancel": "取消",
     "Ok": "确定",
+    "Alternate_UI": "替代 UI",
     "Network": "网络",
     "Socket_timeout": "套接字超时",
     "seconds": "$time 秒",

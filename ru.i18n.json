@@ -5,7 +5,8 @@
     "Payload_Sender": "Отправитель данных",
     "Debug_Log": "Журнал отладки",
     "Settings": "Настройки",
-    "LanguageSelection": "Выбор языка",
+    "UI_Selection": "Выбор UI",
+    "Language_Selection": "Выбор языка",
     "About": "О программе",
     "Licenses": "Лицензии",
     "Back": "Назад"
@@ -41,6 +42,7 @@
     "Paste": "Вставить",
     "Cancel": "Отмена",
     "Ok": "ОК",
+    "Alternate_UI": "Альтернативный UI",
     "Network": "Сеть",
     "Socket_timeout": "Тайм-аут сокета",
     "seconds": "$time секунд",

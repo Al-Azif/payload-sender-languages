@@ -5,7 +5,8 @@
     "Payload_Sender": "مرسل الحمولة",
     "Debug_Log": "سجل التصحيح",
     "Settings": "الإعدادات",
-    "LanguageSelection": "اختيار اللغة",
+    "UI_Selection": "اختيار واجهة المستخدم",
+    "Language_Selection": "اختيار اللغة",
     "About": "حول",
     "Licenses": "التراخيص",
     "Back": "رجوع"
@@ -41,6 +42,7 @@
     "Paste": "لصق",
     "Cancel": "إلغاء",
     "Ok": "موافق",
+    "Alternate_UI": "واجهة مستخدم بديلة",
     "Network": "الشبكة",
     "Socket_timeout": "مهلة المقبس",
     "seconds": "$time ثوانٍ",

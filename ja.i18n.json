@@ -5,7 +5,8 @@
     "Payload_Sender": "ペイロード送信者",
     "Debug_Log": "デバッグログ",
     "Settings": "設定",
-    "LanguageSelection": "言語選択",
+    "UI_Selection": "UI選択",
+    "Language_Selection": "言語選択",
     "About": "アプリについて",
     "Licenses": "ライセンス",
     "Back": "戻る"
@@ -41,6 +42,7 @@
     "Paste": "貼り付け",
     "Cancel": "キャンセル",
     "Ok": "OK",
+    "Alternate_UI": "代替UI",
     "Network": "ネットワーク",
     "Socket_timeout": "ソケットのタイムアウト",
     "seconds": "$time 秒",

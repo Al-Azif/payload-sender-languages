@@ -5,7 +5,8 @@
     "Payload_Sender": "Payload-zender",
     "Debug_Log": "Debug-logboek",
     "Settings": "Instellingen",
-    "LanguageSelection": "Taalkeuze",
+    "UI_Selection": "UI-selectie",
+    "Language_Selection": "Taalkeuze",
     "About": "Over",
     "Licenses": "Licenties",
     "Back": "Terug"
@@ -41,6 +42,7 @@
     "Paste": "Plakken",
     "Cancel": "Annuleren",
     "Ok": "OK",
+    "Alternate_UI": "Alternatieve UI",
     "Network": "Netwerk",
     "Socket_timeout": "Socket-time-out",
     "seconds": "$time seconden",

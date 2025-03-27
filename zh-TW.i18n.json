@@ -5,7 +5,8 @@
     "Payload_Sender": "負載發送器",
     "Debug_Log": "偵錯日誌",
     "Settings": "設定",
-    "LanguageSelection": "語言選擇",
+    "UI_Selection": "UI 選擇",
+    "Language_Selection": "語言選擇",
     "About": "關於",
     "Licenses": "許可證",
     "Back": "返回"
@@ -41,6 +42,7 @@
     "Paste": "貼上",
     "Cancel": "取消",
     "Ok": "確定",
+    "Alternate_UI": "替代 UI",
     "Network": "網路",
     "Socket_timeout": "Socket 逾時",
     "seconds": "$time 秒",

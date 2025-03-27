@@ -5,7 +5,8 @@
     "Payload_Sender": "Penghantar Beban",
     "Debug_Log": "Log Nyahpepijat",
     "Settings": "Tetapan",
-    "LanguageSelection": "Pemilihan Bahasa",
+    "UI_Selection": "Pemilihan UI",
+    "Language_Selection": "Pemilihan Bahasa",
     "About": "Mengenai",
     "Licenses": "Lesen",
     "Back": "Kembali"
@@ -41,6 +42,7 @@
     "Paste": "Tampal",
     "Cancel": "Batal",
     "Ok": "OK",
+    "Alternate_UI": "UI Alternatif",
     "Network": "Rangkaian",
     "Socket_timeout": "Had masa soket",
     "seconds": "$time saat",

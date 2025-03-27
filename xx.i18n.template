@@ -5,7 +5,8 @@
     "Payload_Sender": "",
     "Debug_Log": "",
     "Settings": "",
-    "LanguageSelection": "",
+    "UI_Selection": "",
+    "Language_Selection": "",
     "About": "",
     "Licenses": "",
     "Back": ""
@@ -41,6 +42,7 @@
     "Paste": "",
     "Cancel": "",
     "Ok": "",
+    "Alternate_UI": "",
     "Network": "",
     "Socket_timeout": "",
     "seconds": "",
